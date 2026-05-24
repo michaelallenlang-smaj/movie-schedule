@@ -73,7 +73,7 @@
 
       .toolbar {
         display: grid;
-        grid-template-columns: 1.5fr 1fr 1fr;
+        grid-template-columns: 1.5fr 1fr 1fr auto;
         gap: 10px;
         margin-bottom: 14px;
       }
@@ -140,6 +140,10 @@
         background: #fbf7ef;
       }
 
+      tbody tr.starred {
+        background: #fff9df;
+      }
+
       td.time {
         font-weight: 850;
         white-space: nowrap;
@@ -151,6 +155,26 @@
 
       .program {
         font-weight: 800;
+      }
+
+      .toggle {
+        align-items: center;
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        display: flex;
+        gap: 8px;
+        min-height: 42px;
+        padding: 9px 11px;
+      }
+
+      .toggle input {
+        min-height: auto;
+        width: auto;
+      }
+
+      .starred-mark {
+        color: #8a6400;
+        font-weight: 900;
       }
 
       a {
@@ -199,6 +223,10 @@
           Date
           <select id="date"></select>
         </label>
+        <label class="toggle">
+          <input id="starredOnly" type="checkbox">
+          Starred only
+        </label>
       </section>
       <p class="count" id="count"></p>
       <section class="table-wrap" aria-label="All showings">
@@ -207,6 +235,7 @@
             <tr>
               <th>Date</th>
               <th>Time</th>
+              <th>Starred</th>
               <th>Movie</th>
               <th>Program</th>
               <th>Auditorium</th>
@@ -226,9 +255,11 @@
     <script>
       const state = {
         data: null,
+        starred: { movieCodes: [], performanceIds: [] },
         search: "",
         program: "all",
-        date: "all"
+        date: "all",
+        starredOnly: false
       };
 
       const formatDate = new Intl.DateTimeFormat("en-US", {
@@ -248,6 +279,7 @@
         search: document.querySelector("#search"),
         program: document.querySelector("#program"),
         date: document.querySelector("#date"),
+        starredOnly: document.querySelector("#starredOnly"),
         count: document.querySelector("#count"),
         rows: document.querySelector("#rows"),
         empty: document.querySelector("#empty"),
@@ -271,11 +303,16 @@
         ].join(" ").toLowerCase();
       }
 
+      function isStarred(event) {
+        return state.starred.movieCodes.includes(event.hoCode) || state.starred.performanceIds.includes(event.performanceId);
+      }
+
       function filteredEvents() {
         const q = state.search.trim().toLowerCase();
         return state.data.events.filter((event) => {
           if (state.program !== "all" && event.program !== state.program) return false;
           if (state.date !== "all" && event.date !== state.date) return false;
+          if (state.starredOnly && !isStarred(event)) return false;
           return !q || textFor(event).includes(q);
         });
       }
@@ -299,10 +336,12 @@
         els.tableWrap.style.display = events.length ? "block" : "none";
         els.rows.innerHTML = events.map((event) => {
           const movie = state.data.movies[event.hoCode] || {};
+          const starred = isStarred(event);
           return `
-            <tr>
+            <tr class="${starred ? "starred" : ""}">
               <td class="date">${formatDate.format(new Date(event.date + "T12:00:00"))}</td>
               <td class="time">${event.time}</td>
+              <td class="starred-mark">${starred ? "Starred" : ""}</td>
               <td>${event.displayTitle}</td>
               <td class="program">${event.program}</td>
               <td>${event.auditorium}</td>
@@ -319,6 +358,14 @@
       async function init() {
         const response = await fetch("./data/regal-hunt-valley-programs.json");
         state.data = await response.json();
+        const starredResponse = await fetch("./data/starred.json").catch(() => null);
+        if (starredResponse && starredResponse.ok) {
+          const starred = await starredResponse.json();
+          state.starred = {
+            movieCodes: starred.movieCodes || [],
+            performanceIds: starred.performanceIds || []
+          };
+        }
         els.subtitle.textContent = `${state.data.theatre.address} - Updated ${new Date(state.data.generatedAt).toLocaleString()}`;
         renderFilters();
         renderRows();
@@ -336,6 +383,11 @@
 
       els.date.addEventListener("change", (event) => {
         state.date = event.target.value;
+        renderRows();
+      });
+
+      els.starredOnly.addEventListener("change", (event) => {
+        state.starredOnly = event.target.checked;
         renderRows();
       });
 

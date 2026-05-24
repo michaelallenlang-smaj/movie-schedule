@@ -77,7 +77,7 @@
 
       .toolbar {
         display: grid;
-        grid-template-columns: 1.4fr 1fr 1fr;
+        grid-template-columns: 1.4fr 1fr 1fr auto;
         gap: 10px;
         align-items: end;
         margin: 0 0 16px;
@@ -152,6 +152,11 @@
         padding: 14px;
       }
 
+      .card.starred {
+        border-color: #b58a23;
+        box-shadow: inset 0 0 0 1px #b58a23;
+      }
+
       .card h3 {
         margin: 0;
         font-size: 18px;
@@ -195,6 +200,26 @@
 
       .program[data-program*="Matinee"] {
         background: var(--gold);
+      }
+
+      .starred-pill {
+        background: #fff0bd;
+        color: #5b4300;
+      }
+
+      .toggle {
+        align-items: center;
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        display: flex;
+        gap: 8px;
+        min-height: 42px;
+        padding: 9px 11px;
+      }
+
+      .toggle input {
+        min-height: auto;
+        width: auto;
       }
 
       .time {
@@ -261,6 +286,10 @@
           Date
           <select id="date"></select>
         </label>
+        <label class="toggle">
+          <input id="starredOnly" type="checkbox">
+          Starred only
+        </label>
       </section>
       <section class="summary" id="summary"></section>
       <section id="schedule"></section>
@@ -270,9 +299,11 @@
     <script>
       const state = {
         data: null,
+        starred: { movieCodes: [], performanceIds: [] },
         search: "",
         program: "all",
-        date: "all"
+        date: "all",
+        starredOnly: false
       };
 
       const formatDate = new Intl.DateTimeFormat("en-US", {
@@ -291,6 +322,7 @@
         search: document.querySelector("#search"),
         program: document.querySelector("#program"),
         date: document.querySelector("#date"),
+        starredOnly: document.querySelector("#starredOnly"),
         summary: document.querySelector("#summary"),
         schedule: document.querySelector("#schedule"),
         empty: document.querySelector("#empty")
@@ -310,11 +342,16 @@
         ].join(" ").toLowerCase();
       }
 
+      function isStarred(event) {
+        return state.starred.movieCodes.includes(event.hoCode) || state.starred.performanceIds.includes(event.performanceId);
+      }
+
       function filteredEvents() {
         const q = state.search.trim().toLowerCase();
         return state.data.events.filter((event) => {
           if (state.program !== "all" && event.program !== state.program) return false;
           if (state.date !== "all" && event.date !== state.date) return false;
+          if (state.starredOnly && !isStarred(event)) return false;
           return !q || eventText(event).includes(q);
         });
       }
@@ -357,6 +394,7 @@
         els.schedule.innerHTML = [...byDate.entries()].map(([date, dayEvents]) => {
           const cards = dayEvents.map((event) => {
             const movie = state.data.movies[event.hoCode] || {};
+            const starred = isStarred(event);
             const details = [
               movie.runtime,
               movie.rating,
@@ -365,8 +403,9 @@
               event.soldOut ? "Sold out" : ""
             ].filter(Boolean).join(" · ");
             return `
-              <article class="card">
+              <article class="card${starred ? " starred" : ""}">
                 <div class="meta">
+                  ${starred ? `<span class="pill starred-pill">Starred</span>` : ""}
                   <span class="pill program" data-program="${event.program}">${event.program}</span>
                   <span class="pill">Auditorium ${event.auditorium}</span>
                 </div>
@@ -391,6 +430,14 @@
       async function init() {
         const response = await fetch("./data/regal-hunt-valley-programs.json");
         state.data = await response.json();
+        const starredResponse = await fetch("./data/starred.json").catch(() => null);
+        if (starredResponse && starredResponse.ok) {
+          const starred = await starredResponse.json();
+          state.starred = {
+            movieCodes: starred.movieCodes || [],
+            performanceIds: starred.performanceIds || []
+          };
+        }
         els.subtitle.textContent = `${state.data.theatre.address} · Updated ${new Date(state.data.generatedAt).toLocaleString()}`;
         renderFilters();
         renderSchedule();
@@ -408,6 +455,11 @@
 
       els.date.addEventListener("change", (event) => {
         state.date = event.target.value;
+        renderSchedule();
+      });
+
+      els.starredOnly.addEventListener("change", (event) => {
+        state.starredOnly = event.target.checked;
         renderSchedule();
       });
 
