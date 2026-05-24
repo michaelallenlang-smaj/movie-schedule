@@ -1,0 +1,350 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Every Regal Hunt Valley Program Showing</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f6f5f2;
+        --panel: #ffffff;
+        --ink: #171717;
+        --muted: #67645f;
+        --line: #d9d4cb;
+        --accent: #b42318;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--ink);
+      }
+
+      header {
+        background: #151515;
+        color: #fff;
+        padding: 28px clamp(16px, 4vw, 48px);
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-size: clamp(28px, 5vw, 48px);
+        line-height: 1;
+      }
+
+      header p {
+        margin: 0;
+        color: #d7d1c8;
+      }
+
+      .nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 18px;
+      }
+
+      .nav a {
+        border: 1px solid #6f6b64;
+        border-radius: 6px;
+        color: #fff;
+        font-weight: 800;
+        padding: 8px 11px;
+        text-decoration: none;
+      }
+
+      .nav a[aria-current="page"] {
+        background: #fff;
+        border-color: #fff;
+        color: #151515;
+      }
+
+      main {
+        width: min(1280px, 100%);
+        margin: 0 auto;
+        padding: 20px clamp(12px, 3vw, 28px) 48px;
+      }
+
+      .toolbar {
+        display: grid;
+        grid-template-columns: 1.5fr 1fr 1fr;
+        gap: 10px;
+        margin-bottom: 14px;
+      }
+
+      label {
+        display: grid;
+        gap: 6px;
+        color: var(--muted);
+        font-size: 13px;
+        font-weight: 700;
+      }
+
+      input,
+      select {
+        width: 100%;
+        min-height: 42px;
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        background: #fff;
+        color: var(--ink);
+        font: inherit;
+        padding: 9px 11px;
+      }
+
+      .count {
+        color: var(--muted);
+        font-size: 14px;
+        margin: 0 0 12px;
+      }
+
+      .table-wrap {
+        overflow-x: auto;
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        min-width: 980px;
+      }
+
+      th,
+      td {
+        border-bottom: 1px solid var(--line);
+        padding: 10px 12px;
+        text-align: left;
+        vertical-align: top;
+      }
+
+      th {
+        position: sticky;
+        top: 0;
+        background: #eee9df;
+        color: #373431;
+        font-size: 12px;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        z-index: 1;
+      }
+
+      tbody tr:hover {
+        background: #fbf7ef;
+      }
+
+      td.time {
+        font-weight: 850;
+        white-space: nowrap;
+      }
+
+      td.date {
+        white-space: nowrap;
+      }
+
+      .program {
+        font-weight: 800;
+      }
+
+      a {
+        color: var(--accent);
+        font-weight: 800;
+        text-decoration: none;
+      }
+
+      .empty {
+        display: none;
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        color: var(--muted);
+        padding: 24px;
+        text-align: center;
+      }
+
+      @media (max-width: 760px) {
+        .toolbar {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Every Program Showing</h1>
+      <p id="subtitle">Loading schedule...</p>
+      <nav class="nav" aria-label="Views">
+        <a href="./index.html">Cards</a>
+        <a href="./showings.html" aria-current="page">Table</a>
+      </nav>
+    </header>
+    <main>
+      <section class="toolbar" aria-label="Filters">
+        <label>
+          Search
+          <input id="search" type="search" placeholder="Movie, program, auditorium">
+        </label>
+        <label>
+          Program
+          <select id="program"></select>
+        </label>
+        <label>
+          Date
+          <select id="date"></select>
+        </label>
+      </section>
+      <p class="count" id="count"></p>
+      <section class="table-wrap" aria-label="All showings">
+        <table>
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Time</th>
+              <th>Movie</th>
+              <th>Program</th>
+              <th>Auditorium</th>
+              <th>Format</th>
+              <th>Rating</th>
+              <th>Runtime</th>
+              <th>Status</th>
+              <th>Link</th>
+            </tr>
+          </thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </section>
+      <p class="empty" id="empty">No matching showings.</p>
+    </main>
+
+    <script>
+      const state = {
+        data: null,
+        search: "",
+        program: "all",
+        date: "all"
+      };
+
+      const formatDate = new Intl.DateTimeFormat("en-US", {
+        weekday: "short",
+        month: "short",
+        day: "numeric",
+        year: "numeric"
+      });
+
+      const shortDate = new Intl.DateTimeFormat("en-US", {
+        month: "short",
+        day: "numeric"
+      });
+
+      const els = {
+        subtitle: document.querySelector("#subtitle"),
+        search: document.querySelector("#search"),
+        program: document.querySelector("#program"),
+        date: document.querySelector("#date"),
+        count: document.querySelector("#count"),
+        rows: document.querySelector("#rows"),
+        empty: document.querySelector("#empty"),
+        tableWrap: document.querySelector(".table-wrap")
+      };
+
+      function uniq(values) {
+        return [...new Set(values)].sort();
+      }
+
+      function textFor(event) {
+        const movie = state.data.movies[event.hoCode] || {};
+        return [
+          event.title,
+          event.displayTitle,
+          event.program,
+          event.format,
+          event.auditorium,
+          movie.rating,
+          movie.runtime
+        ].join(" ").toLowerCase();
+      }
+
+      function filteredEvents() {
+        const q = state.search.trim().toLowerCase();
+        return state.data.events.filter((event) => {
+          if (state.program !== "all" && event.program !== state.program) return false;
+          if (state.date !== "all" && event.date !== state.date) return false;
+          return !q || textFor(event).includes(q);
+        });
+      }
+
+      function renderFilters() {
+        const programs = uniq(state.data.events.map((event) => event.program));
+        els.program.innerHTML = `<option value="all">All programs</option>` + programs
+          .map((program) => `<option value="${program}">${program}</option>`)
+          .join("");
+
+        const dates = uniq(state.data.events.map((event) => event.date));
+        els.date.innerHTML = `<option value="all">All dates</option>` + dates
+          .map((date) => `<option value="${date}">${shortDate.format(new Date(date + "T12:00:00"))}</option>`)
+          .join("");
+      }
+
+      function renderRows() {
+        const events = filteredEvents();
+        els.count.textContent = `${events.length} of ${state.data.events.length} showings`;
+        els.empty.style.display = events.length ? "none" : "block";
+        els.tableWrap.style.display = events.length ? "block" : "none";
+        els.rows.innerHTML = events.map((event) => {
+          const movie = state.data.movies[event.hoCode] || {};
+          return `
+            <tr>
+              <td class="date">${formatDate.format(new Date(event.date + "T12:00:00"))}</td>
+              <td class="time">${event.time}</td>
+              <td>${event.displayTitle}</td>
+              <td class="program">${event.program}</td>
+              <td>${event.auditorium}</td>
+              <td>${event.format}</td>
+              <td>${movie.rating || ""}</td>
+              <td>${movie.runtime || ""}</td>
+              <td>${event.soldOut ? "Sold out" : "Available"}</td>
+              <td><a href="${event.url}" target="_blank" rel="noreferrer">Regal</a></td>
+            </tr>
+          `;
+        }).join("");
+      }
+
+      async function init() {
+        const response = await fetch("./data/regal-hunt-valley-programs.json");
+        state.data = await response.json();
+        els.subtitle.textContent = `${state.data.theatre.address} - Updated ${new Date(state.data.generatedAt).toLocaleString()}`;
+        renderFilters();
+        renderRows();
+      }
+
+      els.search.addEventListener("input", (event) => {
+        state.search = event.target.value;
+        renderRows();
+      });
+
+      els.program.addEventListener("change", (event) => {
+        state.program = event.target.value;
+        renderRows();
+      });
+
+      els.date.addEventListener("change", (event) => {
+        state.date = event.target.value;
+        renderRows();
+      });
+
+      init().catch((error) => {
+        els.subtitle.textContent = "Could not load the schedule data.";
+        els.empty.textContent = error.message;
+        els.empty.style.display = "block";
+        els.tableWrap.style.display = "none";
+      });
+    </script>
+  </body>
+</html>

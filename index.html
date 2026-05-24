@@ -1,0 +1,421 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Regal Hunt Valley Program Schedule</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f6f5f2;
+        --panel: #ffffff;
+        --ink: #171717;
+        --muted: #67645f;
+        --line: #d9d4cb;
+        --accent: #b42318;
+        --accent-ink: #ffffff;
+        --gold: #a66f00;
+        --blue: #205493;
+        --green: #266a45;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--ink);
+      }
+
+      header {
+        background: #151515;
+        color: #fff;
+        padding: 28px clamp(16px, 4vw, 48px);
+      }
+
+      header h1 {
+        margin: 0 0 8px;
+        font-size: clamp(28px, 5vw, 48px);
+        line-height: 1;
+      }
+
+      header p {
+        margin: 0;
+        color: #d7d1c8;
+      }
+
+      .nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 18px;
+      }
+
+      .nav a {
+        border: 1px solid #6f6b64;
+        border-radius: 6px;
+        color: #fff;
+        font-weight: 800;
+        padding: 8px 11px;
+        text-decoration: none;
+      }
+
+      .nav a[aria-current="page"] {
+        background: #fff;
+        border-color: #fff;
+        color: #151515;
+      }
+
+      main {
+        width: min(1180px, 100%);
+        margin: 0 auto;
+        padding: 20px clamp(12px, 3vw, 28px) 48px;
+      }
+
+      .toolbar {
+        display: grid;
+        grid-template-columns: 1.4fr 1fr 1fr;
+        gap: 10px;
+        align-items: end;
+        margin: 0 0 16px;
+      }
+
+      label {
+        display: grid;
+        gap: 6px;
+        color: var(--muted);
+        font-size: 13px;
+        font-weight: 700;
+      }
+
+      input,
+      select {
+        width: 100%;
+        min-height: 42px;
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        background: #fff;
+        color: var(--ink);
+        font: inherit;
+        padding: 9px 11px;
+      }
+
+      .summary {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 10px;
+        margin: 18px 0;
+      }
+
+      .stat {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 14px;
+      }
+
+      .stat strong {
+        display: block;
+        font-size: 24px;
+      }
+
+      .stat span {
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .day {
+        margin: 18px 0;
+      }
+
+      .day h2 {
+        margin: 0;
+        padding: 12px 4px;
+        font-size: 19px;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 10px;
+      }
+
+      .card {
+        display: grid;
+        gap: 10px;
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 14px;
+      }
+
+      .card h3 {
+        margin: 0;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+
+      .meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+      }
+
+      .pill {
+        display: inline-flex;
+        align-items: center;
+        min-height: 26px;
+        border-radius: 999px;
+        padding: 4px 9px;
+        background: #eee9df;
+        color: #2a2927;
+        font-size: 12px;
+        font-weight: 700;
+      }
+
+      .program {
+        background: var(--accent);
+        color: var(--accent-ink);
+      }
+
+      .program[data-program*="Summer"] {
+        background: var(--green);
+      }
+
+      .program[data-program*="Mystery"] {
+        background: var(--blue);
+      }
+
+      .program[data-program*="Anime"] {
+        background: #5d3d98;
+      }
+
+      .program[data-program*="Matinee"] {
+        background: var(--gold);
+      }
+
+      .time {
+        font-size: 30px;
+        font-weight: 850;
+        letter-spacing: 0;
+      }
+
+      .details {
+        color: var(--muted);
+        font-size: 14px;
+        line-height: 1.35;
+      }
+
+      .actions {
+        display: flex;
+        gap: 8px;
+      }
+
+      .actions a {
+        color: var(--accent);
+        font-weight: 800;
+        text-decoration: none;
+      }
+
+      .empty {
+        display: none;
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 24px;
+        color: var(--muted);
+        text-align: center;
+      }
+
+      @media (max-width: 760px) {
+        .toolbar,
+        .summary {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Regal Hunt Valley Programs</h1>
+      <p id="subtitle">Loading schedule...</p>
+      <nav class="nav" aria-label="Views">
+        <a href="./index.html" aria-current="page">Cards</a>
+        <a href="./showings.html">Table</a>
+      </nav>
+    </header>
+    <main>
+      <section class="toolbar" aria-label="Filters">
+        <label>
+          Search
+          <input id="search" type="search" placeholder="Movie, program, format">
+        </label>
+        <label>
+          Program
+          <select id="program"></select>
+        </label>
+        <label>
+          Date
+          <select id="date"></select>
+        </label>
+      </section>
+      <section class="summary" id="summary"></section>
+      <section id="schedule"></section>
+      <p class="empty" id="empty">No matching program showtimes.</p>
+    </main>
+
+    <script>
+      const state = {
+        data: null,
+        search: "",
+        program: "all",
+        date: "all"
+      };
+
+      const formatDate = new Intl.DateTimeFormat("en-US", {
+        weekday: "long",
+        month: "long",
+        day: "numeric"
+      });
+
+      const shortDate = new Intl.DateTimeFormat("en-US", {
+        month: "short",
+        day: "numeric"
+      });
+
+      const els = {
+        subtitle: document.querySelector("#subtitle"),
+        search: document.querySelector("#search"),
+        program: document.querySelector("#program"),
+        date: document.querySelector("#date"),
+        summary: document.querySelector("#summary"),
+        schedule: document.querySelector("#schedule"),
+        empty: document.querySelector("#empty")
+      };
+
+      function uniq(values) {
+        return [...new Set(values)].sort();
+      }
+
+      function eventText(event) {
+        return [
+          event.title,
+          event.displayTitle,
+          event.program,
+          event.format,
+          event.attributes.join(" ")
+        ].join(" ").toLowerCase();
+      }
+
+      function filteredEvents() {
+        const q = state.search.trim().toLowerCase();
+        return state.data.events.filter((event) => {
+          if (state.program !== "all" && event.program !== state.program) return false;
+          if (state.date !== "all" && event.date !== state.date) return false;
+          return !q || eventText(event).includes(q);
+        });
+      }
+
+      function renderFilters() {
+        const programs = uniq(state.data.events.map((event) => event.program));
+        els.program.innerHTML = `<option value="all">All programs</option>` + programs
+          .map((program) => `<option value="${program}">${program}</option>`)
+          .join("");
+
+        const dates = uniq(state.data.events.map((event) => event.date));
+        els.date.innerHTML = `<option value="all">All dates</option>` + dates
+          .map((date) => `<option value="${date}">${shortDate.format(new Date(date + "T12:00:00"))}</option>`)
+          .join("");
+      }
+
+      function renderSummary(events) {
+        const films = uniq(events.map((event) => event.hoCode)).length;
+        const programs = uniq(events.map((event) => event.program)).length;
+        const dates = uniq(events.map((event) => event.date)).length;
+        els.summary.innerHTML = [
+          ["Showtimes", events.length],
+          ["Movies", films],
+          ["Programs", programs],
+          ["Dates", dates]
+        ].map(([label, value]) => `<article class="stat"><strong>${value}</strong><span>${label}</span></article>`).join("");
+      }
+
+      function renderSchedule() {
+        const events = filteredEvents();
+        renderSummary(events);
+        els.empty.style.display = events.length ? "none" : "block";
+
+        const byDate = new Map();
+        for (const event of events) {
+          if (!byDate.has(event.date)) byDate.set(event.date, []);
+          byDate.get(event.date).push(event);
+        }
+
+        els.schedule.innerHTML = [...byDate.entries()].map(([date, dayEvents]) => {
+          const cards = dayEvents.map((event) => {
+            const movie = state.data.movies[event.hoCode] || {};
+            const details = [
+              movie.runtime,
+              movie.rating,
+              event.format,
+              event.attributes.includes("Recliner") ? "Recliner" : "",
+              event.soldOut ? "Sold out" : ""
+            ].filter(Boolean).join(" · ");
+            return `
+              <article class="card">
+                <div class="meta">
+                  <span class="pill program" data-program="${event.program}">${event.program}</span>
+                  <span class="pill">Auditorium ${event.auditorium}</span>
+                </div>
+                <div class="time">${event.time}</div>
+                <h3>${event.displayTitle}</h3>
+                <div class="details">${details}</div>
+                <div class="actions">
+                  <a href="${event.url}" target="_blank" rel="noreferrer">Regal movie page</a>
+                </div>
+              </article>
+            `;
+          }).join("");
+          return `
+            <section class="day">
+              <h2>${formatDate.format(new Date(date + "T12:00:00"))}</h2>
+              <div class="grid">${cards}</div>
+            </section>
+          `;
+        }).join("");
+      }
+
+      async function init() {
+        const response = await fetch("./data/regal-hunt-valley-programs.json");
+        state.data = await response.json();
+        els.subtitle.textContent = `${state.data.theatre.address} · Updated ${new Date(state.data.generatedAt).toLocaleString()}`;
+        renderFilters();
+        renderSchedule();
+      }
+
+      els.search.addEventListener("input", (event) => {
+        state.search = event.target.value;
+        renderSchedule();
+      });
+
+      els.program.addEventListener("change", (event) => {
+        state.program = event.target.value;
+        renderSchedule();
+      });
+
+      els.date.addEventListener("change", (event) => {
+        state.date = event.target.value;
+        renderSchedule();
+      });
+
+      init().catch((error) => {
+        els.subtitle.textContent = "Could not load the schedule data.";
+        els.empty.textContent = error.message;
+        els.empty.style.display = "block";
+      });
+    </script>
+  </body>
+</html>
