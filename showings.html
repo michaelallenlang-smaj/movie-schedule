@@ -255,7 +255,7 @@
     <script>
       const state = {
         data: null,
-        starred: { movieCodes: [], performanceIds: [] },
+        starred: { movieCodes: [], performanceIds: [], titleMatches: [] },
         search: "",
         program: "all",
         date: "all",
@@ -304,7 +304,9 @@
       }
 
       function isStarred(event) {
-        return state.starred.movieCodes.includes(event.hoCode) || state.starred.performanceIds.includes(event.performanceId);
+        return state.starred.movieCodes.includes(event.hoCode)
+          || state.starred.performanceIds.includes(event.performanceId)
+          || state.starred.titleMatches.some((title) => event.title.toLowerCase().includes(title.toLowerCase()));
       }
 
       function filteredEvents() {
@@ -356,14 +358,15 @@
       }
 
       async function init() {
-        const response = await fetch("./data/regal-hunt-valley-programs.json");
+        const response = await fetch("./data/regal-hunt-valley-programs.json?v=20260524-starred-ghibli");
         state.data = await response.json();
-        const starredResponse = await fetch("./data/starred.json").catch(() => null);
+        const starredResponse = await fetch("./data/starred.json?v=20260524-starred-ghibli").catch(() => null);
         if (starredResponse && starredResponse.ok) {
           const starred = await starredResponse.json();
           state.starred = {
             movieCodes: starred.movieCodes || [],
-            performanceIds: starred.performanceIds || []
+            performanceIds: starred.performanceIds || [],
+            titleMatches: starred.titleMatches || []
           };
         }
         els.subtitle.textContent = `${state.data.theatre.address} - Updated ${new Date(state.data.generatedAt).toLocaleString()}`;

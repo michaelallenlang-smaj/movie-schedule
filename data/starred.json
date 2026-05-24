@@ -1,8 +1,15 @@
 {
-  "movieCodes": [],
+  "movieCodes": [
+    "HO00021541",
+    "HO00021244"
+  ],
   "performanceIds": [],
   "notes": [
     "Add Regal movie codes such as HO00021199 to movieCodes to star every showing of that movie.",
-    "Add specific performanceId numbers to performanceIds to star only one exact showing."
+    "Add specific performanceId numbers to performanceIds to star only one exact showing.",
+    "Add title fragments such as Totoro to titleMatches to star matching movies when they appear in the schedule data."
+  ],
+  "titleMatches": [
+    "Totoro"
   ]
 }

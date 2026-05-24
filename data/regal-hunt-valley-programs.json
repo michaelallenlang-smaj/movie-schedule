@@ -346,6 +346,17 @@
       "description": "A reworking of Robert Louis Stevenson's classic tale in which the Muppets take to the high seas in search of buried treasure. Young Jim Hawkins is given a treasure map by a mysterious sailor and sets sail with his friends the Great Gonzo and Rizzo the Rat. Among the crew is the mutinous seadog Long John Silver, who has his own plans for the loot.",
       "poster": "https://regalcdn.azureedge.net/REG/SMX26MuppetsTreasureIsland/HO00021424/TV_SmallPosterImage/20260430-125845884.jpg",
       "trailer": ""
+    },
+    "HO00021541": {
+      "title": "Ponyo - Ghibli 2026",
+      "displayTitle": "Ponyo - Ghibli 2026",
+      "rating": "G",
+      "durationMinutes": 109,
+      "runtime": "1HR 49MINS",
+      "genre": "Adventure / Animated",
+      "description": "From the legendary Studio Ghibli, creators of Spirited Away and My Neighbor Totoro, and Academy Award®-winning director Hayao Miyazaki, comes a heartwarming family adventure. When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea. Miyazaki’s breathtaking, imaginative world is brought to life with an all-star cast, featuring the voices of Cate Blanchett, Noah Cyrus, Matt Damon, Tina Fey, Frankie Jonas, Cloris Leachman, Liam Neeson, Lily Tomlin, and Betty White.\n\nFathom events do not qualify for Unlimited subscriptions.",
+      "poster": "https://regalcdn.azureedge.net/REG/PonyoGhibli2026/HO00021541/TV_SmallPosterImage/20260430-154625624.jpg",
+      "trailer": ""
     }
   },
   "events": [
@@ -1271,6 +1282,78 @@
       "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-11-2026&hoCode=&ignoreCache=false&moviesOnly=false"
     },
     {
+      "program": "Ghibli Fest / Anime Films",
+      "title": "Ponyo - Ghibli 2026",
+      "displayTitle": "Ponyo - Ghibli 2026",
+      "hoCode": "HO00021541",
+      "date": "2026-06-13",
+      "time": "4:00pm",
+      "calendarShowTime": "2026-06-13T16:00:00",
+      "utcShowTime": "2026-06-13T20:00:00.000Z",
+      "performanceId": 214180,
+      "auditorium": 2,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Eng Dubbed",
+        "No Pass/PT",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/ponyo-ghibli-2026-ho00021541",
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-13-2026"
+    },
+    {
+      "program": "Ghibli Fest / Anime Films",
+      "title": "Ponyo - Ghibli 2026",
+      "displayTitle": "Ponyo - Ghibli 2026",
+      "hoCode": "HO00021541",
+      "date": "2026-06-14",
+      "time": "4:00pm",
+      "calendarShowTime": "2026-06-14T16:00:00",
+      "utcShowTime": "2026-06-14T20:00:00.000Z",
+      "performanceId": 214181,
+      "auditorium": 2,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Eng Dubbed",
+        "No Pass/PT",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/ponyo-ghibli-2026-ho00021541",
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-14-2026"
+    },
+    {
+      "program": "Ghibli Fest / Anime Films",
+      "title": "Ponyo - Ghibli 2026",
+      "displayTitle": "Ponyo - Ghibli 2026",
+      "hoCode": "HO00021541",
+      "date": "2026-06-14",
+      "time": "6:30pm",
+      "calendarShowTime": "2026-06-14T18:30:00",
+      "utcShowTime": "2026-06-14T22:30:00.000Z",
+      "performanceId": 214182,
+      "auditorium": 4,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Eng Dubbed",
+        "No Pass/PT",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/ponyo-ghibli-2026-ho00021541",
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-14-2026"
+    },
+    {
       "program": "Summer Movie Express",
       "title": "SMX26: KPop Demon Hunters A Sing-Along Event",
       "displayTitle": "KPop Demon Hunters A Sing-Along Event",
@@ -1315,6 +1398,31 @@
       "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-15-2026&hoCode=&ignoreCache=false&moviesOnly=false"
     },
     {
+      "program": "Ghibli Fest / Anime Films",
+      "title": "Ponyo - Ghibli 2026",
+      "displayTitle": "Ponyo - Ghibli 2026",
+      "hoCode": "HO00021541",
+      "date": "2026-06-15",
+      "time": "6:30pm",
+      "calendarShowTime": "2026-06-15T18:30:00",
+      "utcShowTime": "2026-06-15T22:30:00.000Z",
+      "performanceId": 214184,
+      "auditorium": 2,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Japanese",
+        "No Pass/PT",
+        "Recliner",
+        "Stadium",
+        "Sub-Titled",
+        "Reserved-Selected"
+      ],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/ponyo-ghibli-2026-ho00021541",
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-15-2026"
+    },
+    {
       "program": "Summer Movie Express",
       "title": "SMX26: KPop Demon Hunters A Sing-Along Event",
       "displayTitle": "KPop Demon Hunters A Sing-Along Event",
@@ -1357,6 +1465,31 @@
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-wild-robot-ho00021249",
       "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-16-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+    },
+    {
+      "program": "Ghibli Fest / Anime Films",
+      "title": "Ponyo - Ghibli 2026",
+      "displayTitle": "Ponyo - Ghibli 2026",
+      "hoCode": "HO00021541",
+      "date": "2026-06-16",
+      "time": "6:30pm",
+      "calendarShowTime": "2026-06-16T18:30:00",
+      "utcShowTime": "2026-06-16T22:30:00.000Z",
+      "performanceId": 214185,
+      "auditorium": 2,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Japanese",
+        "No Pass/PT",
+        "Recliner",
+        "Stadium",
+        "Sub-Titled",
+        "Reserved-Selected"
+      ],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/ponyo-ghibli-2026-ho00021541",
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-16-2026"
     },
     {
       "program": "Summer Movie Express",
