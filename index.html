@@ -409,7 +409,7 @@
                 <div class="meta">
                   ${starred ? `<span class="pill starred-pill">Starred</span>` : ""}
                   <span class="pill program" data-program="${event.program}">${event.program}</span>
-                  <span class="pill">Auditorium ${event.auditorium}</span>
+                  ${event.auditorium ? `<span class="pill">Auditorium ${event.auditorium}</span>` : ""}
                 </div>
                 <div class="time">${event.time}</div>
                 <h3>${event.displayTitle}</h3>

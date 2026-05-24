@@ -350,7 +350,7 @@
               <td>${event.format}</td>
               <td>${movie.rating || ""}</td>
               <td>${movie.runtime || ""}</td>
-              <td>${event.soldOut ? "Sold out" : "Available"}</td>
+              <td>${event.note ? "Time TBD" : event.soldOut ? "Sold out" : "Available"}</td>
               <td><a href="${event.url}" target="_blank" rel="noreferrer">Regal</a></td>
             </tr>
           `;
