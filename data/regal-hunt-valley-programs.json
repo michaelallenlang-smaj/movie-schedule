@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T14:01:03.800Z",
+  "generatedAt": "2026-05-25T12:13:26.150Z",
   "theatre": {
     "name": "Regal Hunt Valley",
     "code": "1711",
@@ -17,16 +17,214 @@
     "Only events that Regal exposes in Hunt Valley showtimes are included."
   ],
   "movies": {
-    "HO00021326": {
-      "title": "MAYS: Sing 2",
-      "displayTitle": "Sing 2",
+    "HO00021199": {
+      "title": "SMX26: Sing",
+      "displayTitle": "Sing",
       "rating": "PG",
-      "durationMinutes": 112,
-      "runtime": "1HR 52MINS",
+      "durationMinutes": 110,
+      "runtime": "1HR 50MINS",
+      "genre": "Animated / Comedy",
+      "description": "In a city of humanoid animals, a hustling theater impresario's attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists' find that their lives will never be the same.",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26Sing/HO00021199/TV_SmallPosterImage/20260430-105238908.jpg",
+      "trailer": ""
+    },
+    "HO00021200": {
+      "title": "SMX26: Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "displayTitle": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "rating": "PG",
+      "durationMinutes": 99,
+      "runtime": "1HR 39MINS",
+      "genre": "Action / Adventure",
+      "description": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O’Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26TeenageMutantNinjaTurtlesMutantMayhem/HO00021200/TV_SmallPosterImage/20260430-105446783.jpg",
+      "trailer": "https://www.youtube.com/watch?v=IHvzw4Ibuho"
+    },
+    "HO00021201": {
+      "title": "SMX26: Kung Fu Panda 4",
+      "displayTitle": "Kung Fu Panda 4",
+      "rating": "PG",
+      "durationMinutes": 94,
+      "runtime": "1HR 34MINS",
+      "genre": "Action / Adventure",
+      "description": "After three death-defying adventures defeating world-class villains with his unmatched courage and mad martial arts skills, Po, the Dragon Warrior (Golden Globe nominee Jack Black), is called upon by destiny to … give it a rest already. More specifically, he’s tapped to become the Spiritual Leader of the Valley of Peace.\n\nThat poses a couple of obvious problems. First, Po knows as much about spiritual leadership as he does about the paleo diet, and second, he needs to quickly find and train a new Dragon Warrior before he can assume his new lofty position.\n\nEven worse, there’s been a recent sighting of a wicked, powerful sorceress, Chameleon (Oscar® winner Viola Davis), a tiny lizard who can shapeshift into any creature, large or small. And Chameleon has her greedy, beady little eyes on Po’s Staff of Wisdom, which would give her the power to re-summon all the master villains whom Po has vanquished to the spirit realm.\n\nSo, Po’s going to need some help. He finds it (kinda?) in the form of crafty, quick-witted thief Zhen (Golden Globe winner Awkwafina), a corsac fox who really gets under Po’s fur but whose skills will prove invaluable. In their quest to protect the Valley of Peace from Chameleon’s reptilian claws, this comedic odd-couple duo will have to work together. In the process, Po will discover that heroes can be found in the most unexpected places.",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26KungFuPanda4/HO00021201/TV_SmallPosterImage/20260430-105630983.jpg",
+      "trailer": "https://www.youtube.com/watch?v=_inKs4eeHiI"
+    },
+    "HO00021242": {
+      "title": "SMX26: David",
+      "displayTitle": "David",
+      "rating": "PG",
+      "durationMinutes": 109,
+      "runtime": "1HR 49MINS",
+      "genre": "Animated / Family",
+      "description": "From the songs of his mother’s heart to the whispers of a faithful God, David’s story begins in quiet devotion. When the giant Goliath rises to terrorize a nation, a young shepherd armed with only a sling, a few stones, and unshakable faith steps forward. Pursued by power and driven by purpose, his journey tests the limits of loyalty, love, and courage—culminating in a battle not just for a crown, but for the soul of a kingdom.",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26David/HO00021242/TV_SmallPosterImage/20260430-110008339.jpg",
+      "trailer": "https://www.youtube.com/watch?v=gWgyI6_lR0A"
+    },
+    "HO00021244": {
+      "title": "SMX26: KPop Demon Hunters A Sing-Along Event",
+      "displayTitle": "KPop Demon Hunters A Sing-Along Event",
+      "rating": "PG",
+      "durationMinutes": 96,
+      "runtime": "1HR 36MINS",
+      "genre": "Action / Adventure",
+      "description": "A world-renowned K-Pop girl group balances their lives in the spotlight with their secret identities as demon hunters.",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26KPopDemonHuntersASingAlongEvent/HO00021244/TV_SmallPosterImage/20260430-110300660.jpg",
+      "trailer": ""
+    },
+    "HO00021247": {
+      "title": "SMX26: The Bad Guys 2",
+      "displayTitle": "The Bad Guys 2",
+      "rating": "PG",
+      "durationMinutes": 104,
+      "runtime": "1HR 44MINS",
       "genre": "Adventure / Animated",
-      "description": "This holiday season, the new chapter in Illumination’s smash animated franchise arrives with big dreams and spectacular hit songs as the ever-optimistic Buster Moon and his all-star cast of performers prepare to launch their most dazzling stage extravaganza yet …all in the glittering entertainment capital of the world. There’s just one hitch: They first have to persuade the world’s most reclusive rock star—played by global music icon Bono, in his animated film debut—to join them.",
-      "poster": "https://regalcdn.azureedge.net/REG/MAYSSing2/HO00021326/TV_SmallPosterImage/20260402-145556383.jpg",
-      "trailer": "https://www.youtube.com/watch?v=aS7h3qM024g"
+      "description": "Everyone’s favorite felons are back, and this time, they’ve got company.  \n\nIn the new action-packed chapter from DreamWorks Animation’s acclaimed comedy smash about a crackerjack crew of animal outlaws, our now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.  \n\nBased on the New York Times best-selling book series by Aaron Blabey, which has soared from 8 million to over 30 million copies sold since the first film’s release in 2022, The Bad Guys 2 stars the stellar original cast, led by Academy Award® winner Sam Rockwell as Mr. Wolf, SAG award nominee Marc Maron as safe-cracker Mr. Snake, SAG award nominee Craig Robinson as master-of disguise Mr. Shark, Grammy winner Anthony Ramos as Mr. Piranha and Emmy winner Awkwafina as hacker Ms. Tarantula, aka “Webs.”",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26TheBadGuys2/HO00021247/TV_SmallPosterImage/20260430-110450426.jpg",
+      "trailer": "https://www.youtube.com/watch?v=HvLHYox_Vq8"
+    },
+    "HO00021248": {
+      "title": "SMX26: A Minecraft Movie",
+      "displayTitle": "A Minecraft Movie",
+      "rating": "PG",
+      "durationMinutes": 101,
+      "runtime": "1HR 41MINS",
+      "genre": "Action / Adventure",
+      "description": "Welcome to the world of Minecraft, where creativity doesn’t just help you craft, it’s essential to one’s survival! Four misfits—Garrett “The Garbage Man” Garrison (Momoa), Henry (Hansen), Natalie (Myers) and Dawn (Brooks)—find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they’ll have to master this world (and protect it from evil things like Piglins and Zombies, too) while embarking on a magical quest with an unexpected, expert crafter, Steve (Black). Together, their adventure will challenge all five to be bold and to reconnect with the qualities that make each of them uniquely creative…the very skills they need to thrive back in the real world.",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26AMinecraftMovie/HO00021248/TV_SmallPosterImage/20260430-112335379.jpg",
+      "trailer": "https://www.youtube.com/watch?v=wJO_vIDZn-I"
+    },
+    "HO00021249": {
+      "title": "SMX26: The Wild Robot",
+      "displayTitle": "The Wild Robot",
+      "rating": "PG",
+      "durationMinutes": 102,
+      "runtime": "1HR 42MINS",
+      "genre": "Adventure / Animated",
+      "description": "From DreamWorks Animation comes a new adaptation of a literary sensation, Peter Brown’s beloved, award-winning, #1 New York Times bestseller, The Wild Robot.  \n\nThe epic adventure follows the journey of a robot—ROZZUM unit 7134, “Roz” for short — that is shipwrecked on an uninhabited island and must learn to adapt to the harsh surroundings, gradually building relationships with the animals on the island and becoming the adoptive parent of an orphaned gosling.  \n\nThe Wild Robot stars Academy Award® winner Lupita Nyong’o (Us, The Black Panther franchise) as robot Roz; Emmy and Golden Globe nominee Pedro Pascal (The Last of Us, The Mandalorian) as fox Fink; Emmy winner Catherine O’Hara (Schitt’s Creek, Best in Show) as opossum Pinktail; Oscar® nominee Bill Nighy (Living, Love Actually) as goose Longneck; Kit Connor (Heartstopper, Rocketman) as gosling Brightbill and Oscar® nominee Stephanie Hsu (Everything Everywhere All at Once, this summer’s The Fall Guy) as Vontra, a robot that will intersect with Roz’s life on the island. \n\nThe film also features the voice talents of Emmy winning pop-culture icon Mark Hamill (Star Wars franchise, The Boy and the Heron), Matt Berry (What We Do in the Shadows, The SpongeBob Movie franchise) and Golden Globe winner and Emmy nominee Ving Rhames (Mission: Impossible films, Pulp Fiction).  \n\nA powerful story about the discovery of self, a thrilling examination of the bridge between technology and nature and a moving exploration of what it means to be alive and connected to all living things, The Wild Robot is written and directed by three-time Oscar® nominee Chris Sanders—the writer-director of DreamWorks Animation’s How to Train Your Dragon, The Croods, and Disney’s Lilo & Stitch—and is produced by Jeff Hermann (DreamWorks Animation’s The Boss Baby 2: Family Business; co-producer, Kung Fu Panda franchise).",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26TheWildRobot/HO00021249/TV_SmallPosterImage/20260430-112535021.jpg",
+      "trailer": "https://www.youtube.com/watch?v=njPNg0A9VpY"
+    },
+    "HO00021250": {
+      "title": "SMX26: The Garfield Movie",
+      "displayTitle": "The Garfield Movie",
+      "rating": "PG",
+      "durationMinutes": 101,
+      "runtime": "1HR 41MINS",
+      "genre": "Adventure / Animated",
+      "description": "Garfield (voiced by Chris Pratt), the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father – scruffy street cat Vic (voiced by Samuel L. Jackson) – Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26TheGarfieldMovie/HO00021250/TV_SmallPosterImage/20260430-112758874.jpg",
+      "trailer": "https://www.youtube.com/watch?v=yk2Ej59DnrE"
+    },
+    "HO00021251": {
+      "title": "SMX26: Sonic the Hedgehog 2",
+      "displayTitle": "Sonic the Hedgehog 2",
+      "rating": "PG",
+      "durationMinutes": 122,
+      "runtime": "2HR 2MINS",
+      "genre": "Action / Adventure",
+      "description": "The world’s favorite blue hedgehog is back for a next-level adventure in SONIC THE HEDGEHOG 2. After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands. From the filmmakers behind The Fast and the Furious and Deadpool, SONIC THE HEDGEHOG 2 stars James Marsden, Ben Schwartz as the voice of Sonic, Tika Sumpter, Natasha Rothwell, Adam Pally, and Jim Carrey returning, alongside new additions Shemar Moore, with Idris Elba as the voice of Knuckles, and Colleen O'Shaughnessey as the voice of Tails.\n\n",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26SonictheHedgehog2/HO00021251/TV_SmallPosterImage/20260430-113115028.jpg",
+      "trailer": "https://www.youtube.com/watch?v=47r8FXYZWNU"
+    },
+    "HO00021252": {
+      "title": "SMX26: Sonic the Hedgehog 3",
+      "displayTitle": "Sonic the Hedgehog 3",
+      "rating": "PG",
+      "durationMinutes": 110,
+      "runtime": "1HR 50MINS",
+      "genre": "Action / Adventure",
+      "description": "Sonic the Hedgehog returns to the big screen this holiday season in his most thrilling adventure yet. Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.\n\n \n\nDirector Jeff Fowler returns along with our all-star cast including Jim Carrey, Ben Schwartz, James Marsden, Tika Sumpter, Idris Elba, Colleen O’Shaughnessey, Natasha Rothwell, Shemar Moore, Adam Pally, Lee Majdoub, newcomers Alyla Browne and Krysten Ritter, with Keanu Reeves joining the franchise as Shadow the Hedgehog.",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26SonictheHedgehog3/HO00021252/TV_SmallPosterImage/20260430-113256191.jpg",
+      "trailer": "https://www.youtube.com/watch?v=LH1J1EbqCaI"
+    },
+    "HO00021253": {
+      "title": "SMX26: Scoob!",
+      "displayTitle": "Scoob!",
+      "rating": "PG",
+      "durationMinutes": 94,
+      "runtime": "1HR 34MINS",
+      "genre": "Adventure / Animated",
+      "description": "The first full-length animated Scooby-Doo adventure for the big screen is the never-before told stories of Scooby-Doo's origins and the greatest mystery in the career of Mystery Inc. \"SCOOB!\" reveals how lifelong friends Scooby and Shaggy first met and how they joined with young detectives Fred, Velma and Daphne to form the famous Mystery Inc. Now, with hundreds of cases solved and adventures shared, Scooby and the gang face their biggest, most challenging mystery ever: a plot to unleash the ghost dog Cerberus upon the world. As they race to stop this global \"dogpocalypse,\" the gang discovers that Scooby has a secret legacy and an epic destiny greater than anyone imagined.",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26Scoob/HO00021253/TV_SmallPosterImage/20260430-113800823.jpg",
+      "trailer": "https://www.youtube.com/watch?v=GzlEnS7MmUo"
+    },
+    "HO00021254": {
+      "title": "SMX26: How to Train Your Dragon",
+      "displayTitle": "How to Train Your Dragon",
+      "rating": "PG",
+      "durationMinutes": 125,
+      "runtime": "2HR 5MINS",
+      "genre": "Action / Adventure",
+      "description": "From three-time Oscar® nominee and Golden Globe winner Dean DeBlois, the creative visionary behind DreamWorks Animation’s acclaimed How to Train Your Dragon trilogy, comes a stunning live-action reimagining of the film that launched the beloved franchise.  \n\nOn the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup (Mason Thames; The Black Phone, For All Mankind) stands apart. The inventive yet overlooked son of Chief Stoick the Vast (Gerard Butler, reprising his voice role from the animated franchise), Hiccup defies centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.  \n\nWith the fierce and ambitious Astrid (BAFTA nominee Nico Parker; Dumbo, The Last of Us) and the village’s quirky blacksmith Gobber (Nick Frost; Snow White and the Huntsman, Shaun of the Dead) by his side, Hiccup confronts a world torn by fear and misunderstanding.  \n\nAs an ancient threat emerges, endangering both Vikings and dragons, Hiccup’s friendship with Toothless becomes the key to forging a new future. Together, they must navigate the delicate path toward peace, soaring beyond the boundaries of their worlds and redefining what it means to be a hero and a leader. \n\nThe film also stars Julian Dennison (Deadpool 2), Gabriel Howell (Bodies), Bronwyn James (Wicked), Harry Trevaldwyn (Smothered), Ruth Codd (The Midnight Club), BAFTA nominee Peter Serafinowicz (Guardians of the Galaxy) and Murray McArthur (Game of Thrones).",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26HowtoTrainYourDragon/HO00021254/TV_SmallPosterImage/20260430-114235670.jpg",
+      "trailer": "https://www.youtube.com/watch?v=5lzoxHSn0C0"
+    },
+    "HO00021255": {
+      "title": "SMX26: Animal Farm",
+      "displayTitle": "Animal Farm",
+      "rating": "PG",
+      "durationMinutes": 96,
+      "runtime": "1HR 36MINS",
+      "genre": "Animated / Comedy",
+      "description": "A satirical allegory of revolution and power, Animal Farm traces how a movement for equality is systematically corrupted. As the pigs consolidate control, truth is erased, dissent is crushed, and the farm descends into a ruthless dictatorship—fulfilling Orwell’s warning about the dangers of communism.",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26AnimalFarm/HO00021255/TV_SmallPosterImage/20260430-114421345.jpg",
+      "trailer": "https://www.youtube.com/watch?v=g8wLmj9SiKM"
+    },
+    "HO00021256": {
+      "title": "SMX26: Dog Man",
+      "displayTitle": "Dog Man",
+      "rating": "PG",
+      "durationMinutes": 89,
+      "runtime": "1HR 29MINS",
+      "genre": "Animated / Comedy",
+      "description": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve—and fetch, sit and roll over.  \n \n\nAs Dog Man embraces his new identity and strives to impress his Chief (Lil Rel Howery, Get Out, Free Guy), he must stop the pretty evil plots of feline supervillain Petey the Cat (Pete Davidson; Saturday Night Live, The King of Staten Island). Petey’s latest plan is to clone himself, creating the kitten Lil Petey, to double his ability to do crime stuff. Things get complicated, though, when Lil Petey forges an unexpected bond with Dog Man. \n\n\nWhen Lil Petey falls into the clutches of a common enemy, Dog Man and Petey reluctantly join forces in an action-packed race against time to rescue the young kitten. In the process, they discover the power of family (and kittens!) to bring even the most hostile foes together.",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26DogMan/HO00021256/TV_SmallPosterImage/20260430-114622308.jpg",
+      "trailer": "https://www.youtube.com/watch?v=QaJbAennB_Q"
+    },
+    "HO00021257": {
+      "title": "SMX26: Despicable Me 4",
+      "displayTitle": "Despicable Me 4",
+      "rating": "PG",
+      "durationMinutes": 94,
+      "runtime": "1HR 34MINS",
+      "genre": "Action/Adventure / Animated",
+      "description": "In the first Despicable Me movie in seven years, Gru, the world’s favorite supervillain-turned-Anti-Villain League-agent, returns for an exciting, bold new era of Minions mayhem in Illumination’s Despicable Me 4.",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26DespicableMe4/HO00021257/TV_SmallPosterImage/20260430-154114608.jpg",
+      "trailer": "https://www.youtube.com/watch?v=LtNYaH61dXY"
+    },
+    "HO00021262": {
+      "title": "SMX26: The SpongeBob Movie: Search for Squarepants",
+      "displayTitle": "The SpongeBob Movie: Search for Squarepants",
+      "rating": "PG",
+      "durationMinutes": 96,
+      "runtime": "1HR 36MINS",
+      "genre": "Adventure / Animated",
+      "description": "SpongeBob and his Bikini Bottom friends set sail in their biggest, all-new, can’t miss cinematic event ever…The SpongeBob Movie: Search for SquarePants. Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring comedy-adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26TheSpongeBobMovieSearchforSquarepants/HO00021262/TV_SmallPosterImage/20260430-115036937.jpg",
+      "trailer": "https://www.youtube.com/watch?v=XdPt8QWTypI"
+    },
+    "HO00021263": {
+      "title": "SMX26: Paddington in Peru",
+      "displayTitle": "Paddington in Peru",
+      "rating": "PG",
+      "durationMinutes": 106,
+      "runtime": "1HR 46MINS",
+      "genre": "Adventure / Comedy",
+      "description": "Full of Paddington’s signature blend of wit, charm, and laugh-out-loud humor, Paddington in Peru finds the beloved, marmalade-loving bear lost in the jungle on an exciting, high-stakes adventure. When Paddington discovers his beloved Aunt Lucy has gone missing from the Home for Retired Bears, he and the Brown family head to the wilds of Peru to look for her, the only clue to her whereabouts a spot marked on an enigmatic map.\nDetermined to solve the mystery, Paddington embarks on a thrilling quest through the rainforests of the Amazon to find his aunt and may also uncover one of the world’s most legendary treasures.",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26PaddingtoninPeru/HO00021263/TV_SmallPosterImage/20260430-115439389.jpg",
+      "trailer": "https://www.youtube.com/watch?v=NTvudSGfHRI"
+    },
+    "HO00021264": {
+      "title": "SMX26: Charlie the Wonderdog",
+      "displayTitle": "Charlie the Wonderdog",
+      "rating": "PG",
+      "durationMinutes": 96,
+      "runtime": "1HR 36MINS",
+      "genre": "Animated",
+      "description": "A shy boy, Danny, imagines a rich world in which he and his cherished dog, Charlie, star in their own superhero adventures. When Charlie is mysteriously abducted by aliens, he is gifted true superpowers and emerges as Charlie the Wonderdog, the greatest superhero the world has ever seen!",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26CharlietheWonderdog/HO00021264/TV_SmallPosterImage/20260430-125551418.jpg",
+      "trailer": "https://www.youtube.com/watch?v=uUDfO0Q4sog"
     },
     "HO00021291": {
       "title": "MAYS: Blues Brothers",
@@ -82,248 +280,6 @@
       "description": "A nerdy florist finds his chance for success and romance with the help of a giant man-eating plant who demands to be fed.",
       "poster": "https://regalcdn.azureedge.net/REG/MAYSLittleShopofHorrors/HO00021296/TV_SmallPosterImage/20260407-155228146.jpg",
       "trailer": ""
-    },
-    "HO00021535": {
-      "title": "Tekkonkinkreet 20th Anniversary",
-      "displayTitle": "Tekkonkinkreet 20th Anniversary",
-      "rating": "R",
-      "durationMinutes": 111,
-      "runtime": "1HR 51MINS",
-      "genre": "Action / Adventure",
-      "description": "Two penniless orphans, Black and White, struggle to survive on the mean streets of Treasure Town. When a megacorporation threatens to tear down the town to build an amusement park, Black and White engage in the fight of their life.",
-      "poster": "https://regalcdn.azureedge.net/REG/Tekkonkinkreet20thAnniversary/HO00021535/TV_SmallPosterImage/20260501-161550049.jpg",
-      "trailer": ""
-    },
-    "HO00021200": {
-      "title": "SMX26: Teenage Mutant Ninja Turtles: Mutant Mayhem",
-      "displayTitle": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-      "rating": "PG",
-      "durationMinutes": 99,
-      "runtime": "1HR 39MINS",
-      "genre": "Action / Adventure",
-      "description": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O’Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26TeenageMutantNinjaTurtlesMutantMayhem/HO00021200/TV_SmallPosterImage/20260430-105446783.jpg",
-      "trailer": "https://www.youtube.com/watch?v=IHvzw4Ibuho"
-    },
-    "HO00021199": {
-      "title": "SMX26: Sing",
-      "displayTitle": "Sing",
-      "rating": "PG",
-      "durationMinutes": 110,
-      "runtime": "1HR 50MINS",
-      "genre": "Animated / Comedy",
-      "description": "In a city of humanoid animals, a hustling theater impresario's attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists' find that their lives will never be the same.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26Sing/HO00021199/TV_SmallPosterImage/20260430-105238908.jpg",
-      "trailer": ""
-    },
-    "HO00021638": {
-      "title": "Monday Mystery Movie (6/1)",
-      "displayTitle": "Monday Mystery Movie (6/1)",
-      "rating": "R",
-      "durationMinutes": 115,
-      "runtime": "1HR 55MINS",
-      "genre": "",
-      "description": "Shhh! Be the first to see this NEW movie before its official release date for only $5... We just can't tell you the title! The next Monday Mystery Movie at Regal is on June 1!",
-      "poster": "https://regalcdn.azureedge.net/REG/MondayMysteryMovie61/HO00021638/TV_SmallPosterImage/20260521-104940646.jpg",
-      "trailer": ""
-    },
-    "HO00021201": {
-      "title": "SMX26: Kung Fu Panda 4",
-      "displayTitle": "Kung Fu Panda 4",
-      "rating": "PG",
-      "durationMinutes": 94,
-      "runtime": "1HR 34MINS",
-      "genre": "Action / Adventure",
-      "description": "After three death-defying adventures defeating world-class villains with his unmatched courage and mad martial arts skills, Po, the Dragon Warrior (Golden Globe nominee Jack Black), is called upon by destiny to … give it a rest already. More specifically, he’s tapped to become the Spiritual Leader of the Valley of Peace.\n\nThat poses a couple of obvious problems. First, Po knows as much about spiritual leadership as he does about the paleo diet, and second, he needs to quickly find and train a new Dragon Warrior before he can assume his new lofty position.\n\nEven worse, there’s been a recent sighting of a wicked, powerful sorceress, Chameleon (Oscar® winner Viola Davis), a tiny lizard who can shapeshift into any creature, large or small. And Chameleon has her greedy, beady little eyes on Po’s Staff of Wisdom, which would give her the power to re-summon all the master villains whom Po has vanquished to the spirit realm.\n\nSo, Po’s going to need some help. He finds it (kinda?) in the form of crafty, quick-witted thief Zhen (Golden Globe winner Awkwafina), a corsac fox who really gets under Po’s fur but whose skills will prove invaluable. In their quest to protect the Valley of Peace from Chameleon’s reptilian claws, this comedic odd-couple duo will have to work together. In the process, Po will discover that heroes can be found in the most unexpected places.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26KungFuPanda4/HO00021201/TV_SmallPosterImage/20260430-105630983.jpg",
-      "trailer": "https://www.youtube.com/watch?v=_inKs4eeHiI"
-    },
-    "HO00021242": {
-      "title": "SMX26: David",
-      "displayTitle": "David",
-      "rating": "PG",
-      "durationMinutes": 109,
-      "runtime": "1HR 49MINS",
-      "genre": "Animated / Family",
-      "description": "From the songs of his mother’s heart to the whispers of a faithful God, David’s story begins in quiet devotion. When the giant Goliath rises to terrorize a nation, a young shepherd armed with only a sling, a few stones, and unshakable faith steps forward. Pursued by power and driven by purpose, his journey tests the limits of loyalty, love, and courage—culminating in a battle not just for a crown, but for the soul of a kingdom.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26David/HO00021242/TV_SmallPosterImage/20260430-110008339.jpg",
-      "trailer": "https://www.youtube.com/watch?v=gWgyI6_lR0A"
-    },
-    "HO00021244": {
-      "title": "SMX26: KPop Demon Hunters A Sing-Along Event",
-      "displayTitle": "KPop Demon Hunters A Sing-Along Event",
-      "rating": "PG",
-      "durationMinutes": 96,
-      "runtime": "1HR 36MINS",
-      "genre": "Action / Adventure",
-      "description": "A world-renowned K-Pop girl group balances their lives in the spotlight with their secret identities as demon hunters.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26KPopDemonHuntersASingAlongEvent/HO00021244/TV_SmallPosterImage/20260430-110300660.jpg",
-      "trailer": ""
-    },
-    "HO00021249": {
-      "title": "SMX26: The Wild Robot",
-      "displayTitle": "The Wild Robot",
-      "rating": "PG",
-      "durationMinutes": 102,
-      "runtime": "1HR 42MINS",
-      "genre": "Adventure / Animated",
-      "description": "From DreamWorks Animation comes a new adaptation of a literary sensation, Peter Brown’s beloved, award-winning, #1 New York Times bestseller, The Wild Robot.  \n\nThe epic adventure follows the journey of a robot—ROZZUM unit 7134, “Roz” for short — that is shipwrecked on an uninhabited island and must learn to adapt to the harsh surroundings, gradually building relationships with the animals on the island and becoming the adoptive parent of an orphaned gosling.  \n\nThe Wild Robot stars Academy Award® winner Lupita Nyong’o (Us, The Black Panther franchise) as robot Roz; Emmy and Golden Globe nominee Pedro Pascal (The Last of Us, The Mandalorian) as fox Fink; Emmy winner Catherine O’Hara (Schitt’s Creek, Best in Show) as opossum Pinktail; Oscar® nominee Bill Nighy (Living, Love Actually) as goose Longneck; Kit Connor (Heartstopper, Rocketman) as gosling Brightbill and Oscar® nominee Stephanie Hsu (Everything Everywhere All at Once, this summer’s The Fall Guy) as Vontra, a robot that will intersect with Roz’s life on the island. \n\nThe film also features the voice talents of Emmy winning pop-culture icon Mark Hamill (Star Wars franchise, The Boy and the Heron), Matt Berry (What We Do in the Shadows, The SpongeBob Movie franchise) and Golden Globe winner and Emmy nominee Ving Rhames (Mission: Impossible films, Pulp Fiction).  \n\nA powerful story about the discovery of self, a thrilling examination of the bridge between technology and nature and a moving exploration of what it means to be alive and connected to all living things, The Wild Robot is written and directed by three-time Oscar® nominee Chris Sanders—the writer-director of DreamWorks Animation’s How to Train Your Dragon, The Croods, and Disney’s Lilo & Stitch—and is produced by Jeff Hermann (DreamWorks Animation’s The Boss Baby 2: Family Business; co-producer, Kung Fu Panda franchise).",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26TheWildRobot/HO00021249/TV_SmallPosterImage/20260430-112535021.jpg",
-      "trailer": "https://www.youtube.com/watch?v=njPNg0A9VpY"
-    },
-    "HO00021247": {
-      "title": "SMX26: The Bad Guys 2",
-      "displayTitle": "The Bad Guys 2",
-      "rating": "PG",
-      "durationMinutes": 104,
-      "runtime": "1HR 44MINS",
-      "genre": "Adventure / Animated",
-      "description": "Everyone’s favorite felons are back, and this time, they’ve got company.  \n\nIn the new action-packed chapter from DreamWorks Animation’s acclaimed comedy smash about a crackerjack crew of animal outlaws, our now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.  \n\nBased on the New York Times best-selling book series by Aaron Blabey, which has soared from 8 million to over 30 million copies sold since the first film’s release in 2022, The Bad Guys 2 stars the stellar original cast, led by Academy Award® winner Sam Rockwell as Mr. Wolf, SAG award nominee Marc Maron as safe-cracker Mr. Snake, SAG award nominee Craig Robinson as master-of disguise Mr. Shark, Grammy winner Anthony Ramos as Mr. Piranha and Emmy winner Awkwafina as hacker Ms. Tarantula, aka “Webs.”",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26TheBadGuys2/HO00021247/TV_SmallPosterImage/20260430-110450426.jpg",
-      "trailer": "https://www.youtube.com/watch?v=HvLHYox_Vq8"
-    },
-    "HO00021250": {
-      "title": "SMX26: The Garfield Movie",
-      "displayTitle": "The Garfield Movie",
-      "rating": "PG",
-      "durationMinutes": 101,
-      "runtime": "1HR 41MINS",
-      "genre": "Adventure / Animated",
-      "description": "Garfield (voiced by Chris Pratt), the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father – scruffy street cat Vic (voiced by Samuel L. Jackson) – Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26TheGarfieldMovie/HO00021250/TV_SmallPosterImage/20260430-112758874.jpg",
-      "trailer": "https://www.youtube.com/watch?v=yk2Ej59DnrE"
-    },
-    "HO00021743": {
-      "title": "Toy Story 5 (Sensory)",
-      "displayTitle": "Toy Story 5 (Sensory)",
-      "rating": "PG",
-      "durationMinutes": 102,
-      "runtime": "1HR 42MINS",
-      "genre": "Adventure / Animated",
-      "description": "The toys are back in Disney and Pixar’s “Toy Story 5,” and this time around it’s Toy meets Tech. Buzz, Woody, Jessie and the rest of the gang’s jobs get exponentially harder when they go head to head with this all-new threat to playtime.",
-      "poster": "https://regalcdn.azureedge.net/REG/ToyStory5/HO00020248/TV_SmallPosterImage/20260219-125102394.jpg",
-      "trailer": "https://youtu.be/sebGOVAntP8"
-    },
-    "HO00021248": {
-      "title": "SMX26: A Minecraft Movie",
-      "displayTitle": "A Minecraft Movie",
-      "rating": "PG",
-      "durationMinutes": 101,
-      "runtime": "1HR 41MINS",
-      "genre": "Action / Adventure",
-      "description": "Welcome to the world of Minecraft, where creativity doesn’t just help you craft, it’s essential to one’s survival! Four misfits—Garrett “The Garbage Man” Garrison (Momoa), Henry (Hansen), Natalie (Myers) and Dawn (Brooks)—find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they’ll have to master this world (and protect it from evil things like Piglins and Zombies, too) while embarking on a magical quest with an unexpected, expert crafter, Steve (Black). Together, their adventure will challenge all five to be bold and to reconnect with the qualities that make each of them uniquely creative…the very skills they need to thrive back in the real world.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26AMinecraftMovie/HO00021248/TV_SmallPosterImage/20260430-112335379.jpg",
-      "trailer": "https://www.youtube.com/watch?v=wJO_vIDZn-I"
-    },
-    "HO00021251": {
-      "title": "SMX26: Sonic the Hedgehog 2",
-      "displayTitle": "Sonic the Hedgehog 2",
-      "rating": "PG",
-      "durationMinutes": 122,
-      "runtime": "2HR 2MINS",
-      "genre": "Action / Adventure",
-      "description": "The world’s favorite blue hedgehog is back for a next-level adventure in SONIC THE HEDGEHOG 2. After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands. From the filmmakers behind The Fast and the Furious and Deadpool, SONIC THE HEDGEHOG 2 stars James Marsden, Ben Schwartz as the voice of Sonic, Tika Sumpter, Natasha Rothwell, Adam Pally, and Jim Carrey returning, alongside new additions Shemar Moore, with Idris Elba as the voice of Knuckles, and Colleen O'Shaughnessey as the voice of Tails.\n\n",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26SonictheHedgehog2/HO00021251/TV_SmallPosterImage/20260430-113115028.jpg",
-      "trailer": "https://www.youtube.com/watch?v=47r8FXYZWNU"
-    },
-    "HO00021254": {
-      "title": "SMX26: How to Train Your Dragon",
-      "displayTitle": "How to Train Your Dragon",
-      "rating": "PG",
-      "durationMinutes": 125,
-      "runtime": "2HR 5MINS",
-      "genre": "Action / Adventure",
-      "description": "From three-time Oscar® nominee and Golden Globe winner Dean DeBlois, the creative visionary behind DreamWorks Animation’s acclaimed How to Train Your Dragon trilogy, comes a stunning live-action reimagining of the film that launched the beloved franchise.  \n\nOn the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup (Mason Thames; The Black Phone, For All Mankind) stands apart. The inventive yet overlooked son of Chief Stoick the Vast (Gerard Butler, reprising his voice role from the animated franchise), Hiccup defies centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.  \n\nWith the fierce and ambitious Astrid (BAFTA nominee Nico Parker; Dumbo, The Last of Us) and the village’s quirky blacksmith Gobber (Nick Frost; Snow White and the Huntsman, Shaun of the Dead) by his side, Hiccup confronts a world torn by fear and misunderstanding.  \n\nAs an ancient threat emerges, endangering both Vikings and dragons, Hiccup’s friendship with Toothless becomes the key to forging a new future. Together, they must navigate the delicate path toward peace, soaring beyond the boundaries of their worlds and redefining what it means to be a hero and a leader. \n\nThe film also stars Julian Dennison (Deadpool 2), Gabriel Howell (Bodies), Bronwyn James (Wicked), Harry Trevaldwyn (Smothered), Ruth Codd (The Midnight Club), BAFTA nominee Peter Serafinowicz (Guardians of the Galaxy) and Murray McArthur (Game of Thrones).",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26HowtoTrainYourDragon/HO00021254/TV_SmallPosterImage/20260430-114235670.jpg",
-      "trailer": "https://www.youtube.com/watch?v=5lzoxHSn0C0"
-    },
-    "HO00021252": {
-      "title": "SMX26: Sonic the Hedgehog 3",
-      "displayTitle": "Sonic the Hedgehog 3",
-      "rating": "PG",
-      "durationMinutes": 110,
-      "runtime": "1HR 50MINS",
-      "genre": "Action / Adventure",
-      "description": "Sonic the Hedgehog returns to the big screen this holiday season in his most thrilling adventure yet. Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.\n\n \n\nDirector Jeff Fowler returns along with our all-star cast including Jim Carrey, Ben Schwartz, James Marsden, Tika Sumpter, Idris Elba, Colleen O’Shaughnessey, Natasha Rothwell, Shemar Moore, Adam Pally, Lee Majdoub, newcomers Alyla Browne and Krysten Ritter, with Keanu Reeves joining the franchise as Shadow the Hedgehog.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26SonictheHedgehog3/HO00021252/TV_SmallPosterImage/20260430-113256191.jpg",
-      "trailer": "https://www.youtube.com/watch?v=LH1J1EbqCaI"
-    },
-    "HO00021253": {
-      "title": "SMX26: Scoob!",
-      "displayTitle": "Scoob!",
-      "rating": "PG",
-      "durationMinutes": 94,
-      "runtime": "1HR 34MINS",
-      "genre": "Adventure / Animated",
-      "description": "The first full-length animated Scooby-Doo adventure for the big screen is the never-before told stories of Scooby-Doo's origins and the greatest mystery in the career of Mystery Inc. \"SCOOB!\" reveals how lifelong friends Scooby and Shaggy first met and how they joined with young detectives Fred, Velma and Daphne to form the famous Mystery Inc. Now, with hundreds of cases solved and adventures shared, Scooby and the gang face their biggest, most challenging mystery ever: a plot to unleash the ghost dog Cerberus upon the world. As they race to stop this global \"dogpocalypse,\" the gang discovers that Scooby has a secret legacy and an epic destiny greater than anyone imagined.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26Scoob/HO00021253/TV_SmallPosterImage/20260430-113800823.jpg",
-      "trailer": "https://www.youtube.com/watch?v=GzlEnS7MmUo"
-    },
-    "HO00021262": {
-      "title": "SMX26: The SpongeBob Movie: Search for Squarepants",
-      "displayTitle": "The SpongeBob Movie: Search for Squarepants",
-      "rating": "PG",
-      "durationMinutes": 96,
-      "runtime": "1HR 36MINS",
-      "genre": "Adventure / Animated",
-      "description": "SpongeBob and his Bikini Bottom friends set sail in their biggest, all-new, can’t miss cinematic event ever…The SpongeBob Movie: Search for SquarePants. Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring comedy-adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26TheSpongeBobMovieSearchforSquarepants/HO00021262/TV_SmallPosterImage/20260430-115036937.jpg",
-      "trailer": "https://www.youtube.com/watch?v=XdPt8QWTypI"
-    },
-    "HO00021255": {
-      "title": "SMX26: Animal Farm",
-      "displayTitle": "Animal Farm",
-      "rating": "PG",
-      "durationMinutes": 96,
-      "runtime": "1HR 36MINS",
-      "genre": "Animated / Comedy",
-      "description": "A satirical allegory of revolution and power, Animal Farm traces how a movement for equality is systematically corrupted. As the pigs consolidate control, truth is erased, dissent is crushed, and the farm descends into a ruthless dictatorship—fulfilling Orwell’s warning about the dangers of communism.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26AnimalFarm/HO00021255/TV_SmallPosterImage/20260430-114421345.jpg",
-      "trailer": "https://www.youtube.com/watch?v=g8wLmj9SiKM"
-    },
-    "HO00021263": {
-      "title": "SMX26: Paddington in Peru",
-      "displayTitle": "Paddington in Peru",
-      "rating": "PG",
-      "durationMinutes": 106,
-      "runtime": "1HR 46MINS",
-      "genre": "Adventure / Comedy",
-      "description": "Full of Paddington’s signature blend of wit, charm, and laugh-out-loud humor, Paddington in Peru finds the beloved, marmalade-loving bear lost in the jungle on an exciting, high-stakes adventure. When Paddington discovers his beloved Aunt Lucy has gone missing from the Home for Retired Bears, he and the Brown family head to the wilds of Peru to look for her, the only clue to her whereabouts a spot marked on an enigmatic map.\nDetermined to solve the mystery, Paddington embarks on a thrilling quest through the rainforests of the Amazon to find his aunt and may also uncover one of the world’s most legendary treasures.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26PaddingtoninPeru/HO00021263/TV_SmallPosterImage/20260430-115439389.jpg",
-      "trailer": "https://www.youtube.com/watch?v=NTvudSGfHRI"
-    },
-    "HO00021256": {
-      "title": "SMX26: Dog Man",
-      "displayTitle": "Dog Man",
-      "rating": "PG",
-      "durationMinutes": 89,
-      "runtime": "1HR 29MINS",
-      "genre": "Animated / Comedy",
-      "description": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve—and fetch, sit and roll over.  \n \n\nAs Dog Man embraces his new identity and strives to impress his Chief (Lil Rel Howery, Get Out, Free Guy), he must stop the pretty evil plots of feline supervillain Petey the Cat (Pete Davidson; Saturday Night Live, The King of Staten Island). Petey’s latest plan is to clone himself, creating the kitten Lil Petey, to double his ability to do crime stuff. Things get complicated, though, when Lil Petey forges an unexpected bond with Dog Man. \n\n\nWhen Lil Petey falls into the clutches of a common enemy, Dog Man and Petey reluctantly join forces in an action-packed race against time to rescue the young kitten. In the process, they discover the power of family (and kittens!) to bring even the most hostile foes together.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26DogMan/HO00021256/TV_SmallPosterImage/20260430-114622308.jpg",
-      "trailer": "https://www.youtube.com/watch?v=QaJbAennB_Q"
-    },
-    "HO00021264": {
-      "title": "SMX26: Charlie the Wonderdog",
-      "displayTitle": "Charlie the Wonderdog",
-      "rating": "PG",
-      "durationMinutes": 96,
-      "runtime": "1HR 36MINS",
-      "genre": "Animated",
-      "description": "A shy boy, Danny, imagines a rich world in which he and his cherished dog, Charlie, star in their own superhero adventures. When Charlie is mysteriously abducted by aliens, he is gifted true superpowers and emerges as Charlie the Wonderdog, the greatest superhero the world has ever seen!",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26CharlietheWonderdog/HO00021264/TV_SmallPosterImage/20260430-125551418.jpg",
-      "trailer": "https://www.youtube.com/watch?v=uUDfO0Q4sog"
-    },
-    "HO00021257": {
-      "title": "SMX26: Despicable Me 4",
-      "displayTitle": "Despicable Me 4",
-      "rating": "PG",
-      "durationMinutes": 94,
-      "runtime": "1HR 34MINS",
-      "genre": "Action/Adventure / Animated",
-      "description": "In the first Despicable Me movie in seven years, Gru, the world’s favorite supervillain-turned-Anti-Villain League-agent, returns for an exciting, bold new era of Minions mayhem in Illumination’s Despicable Me 4.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26DespicableMe4/HO00021257/TV_SmallPosterImage/20260430-154114608.jpg",
-      "trailer": "https://www.youtube.com/watch?v=LtNYaH61dXY"
     },
     "HO00021423": {
       "title": "SMX26: The Sandlot",
@@ -423,31 +379,31 @@
       "description": "Winner of the Academy Award® for Best Animated Feature, Hayao Miyazaki‘s wondrous fantasy adventure is a dazzling masterpiece from one of the most celebrated filmmakers in the history of animation.\nChihiro’s family is moving to a new house, but when they stop on the way to explore an abandoned village, her parents undergo a mysterious transformation and Chihiro is whisked into a world of fantastic spirits ruled over by the sorceress Yubaba. Put to work in a magical bathhouse for spirits and demons, Chihiro must use all her wits to survive in this strange new place, find a way to free her parents and return to the normal world. Overflowing with imaginative creatures and thrilling storytelling, Spirited Away became a worldwide smash hit, and is one of the most critically-acclaimed films of all time.\n\nFathom events do not qualify for Unlimited subscriptions.\n",
       "poster": "https://regalcdn.azureedge.net/REG/SpiritedAway25thAnnivGhibli2026/HO00021569/TV_SmallPosterImage/20260512-170640217.jpg",
       "trailer": ""
+    },
+    "HO00021638": {
+      "title": "Monday Mystery Movie (6/1)",
+      "displayTitle": "Monday Mystery Movie (6/1)",
+      "rating": "R",
+      "durationMinutes": 115,
+      "runtime": "1HR 55MINS",
+      "genre": "",
+      "description": "Shhh! Be the first to see this NEW movie before its official release date for only $5... We just can't tell you the title! The next Monday Mystery Movie at Regal is on June 1!",
+      "poster": "https://regalcdn.azureedge.net/REG/MondayMysteryMovie61/HO00021638/TV_SmallPosterImage/20260521-104940646.jpg",
+      "trailer": ""
+    },
+    "HO00021743": {
+      "title": "Toy Story 5 (Sensory)",
+      "displayTitle": "Toy Story 5 (Sensory)",
+      "rating": "PG",
+      "durationMinutes": 102,
+      "runtime": "1HR 42MINS",
+      "genre": "Adventure / Animated",
+      "description": "The toys are back in Disney and Pixar’s “Toy Story 5,” and this time around it’s Toy meets Tech. Buzz, Woody, Jessie and the rest of the gang’s jobs get exponentially harder when they go head to head with this all-new threat to playtime.",
+      "poster": "https://regalcdn.azureedge.net/REG/ToyStory5/HO00020248/TV_SmallPosterImage/20260219-125102394.jpg",
+      "trailer": "https://youtu.be/sebGOVAntP8"
     }
   },
   "events": [
-    {
-      "program": "Musical Mayhem / Classic Movies",
-      "title": "MAYS: Sing 2",
-      "displayTitle": "Sing 2",
-      "hoCode": "HO00021326",
-      "date": "2026-05-24",
-      "time": "11:10am",
-      "calendarShowTime": "2026-05-24T11:10:00",
-      "utcShowTime": "2026-05-24T15:10:00.000Z",
-      "performanceId": 213040,
-      "auditorium": 2,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/mays-sing-2-ho00021326",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-24-2026&hoCode=&ignoreCache=false&moviesOnly=false"
-    },
     {
       "program": "Musical Mayhem / Classic Movies",
       "title": "MAYS: Blues Brothers",
@@ -468,7 +424,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-blues-brothers-ho00021291",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-25-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-25-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -490,7 +446,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-blues-brothers-ho00021291",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-25-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-25-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -512,7 +468,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-blues-brothers-ho00021291",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-25-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-25-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -534,7 +490,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-blues-brothers-ho00021291",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-25-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-25-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -556,7 +512,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-popstar-never-stop-never-stopping-ho00021292",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-27-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-27-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -578,7 +534,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-repo-the-genetic-opera-ho00021294",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-29-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-29-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -600,7 +556,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-repo-the-genetic-opera-ho00021294",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-29-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-29-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -622,7 +578,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-repo-the-genetic-opera-ho00021294",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-29-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-29-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -644,7 +600,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-repo-the-genetic-opera-ho00021294",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-29-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-29-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -666,7 +622,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-repo-the-genetic-opera-ho00021294",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-29-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-29-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -688,7 +644,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-repo-the-genetic-opera-ho00021294",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-29-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-29-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -712,7 +668,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-in-the-heights-ho00021295",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-30-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-30-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -736,7 +692,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-in-the-heights-ho00021295",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-30-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-30-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -760,7 +716,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-in-the-heights-ho00021295",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-30-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-30-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -784,7 +740,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-in-the-heights-ho00021295",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-30-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-30-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -807,7 +763,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-little-shop-of-horrors-ho00021296",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-31-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-31-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -830,7 +786,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-little-shop-of-horrors-ho00021296",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-31-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-31-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -853,30 +809,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-little-shop-of-horrors-ho00021296",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-31-2026&hoCode=&ignoreCache=false&moviesOnly=false"
-    },
-    {
-      "program": "Anime Films",
-      "title": "Tekkonkinkreet 20th Anniversary",
-      "displayTitle": "Tekkonkinkreet 20th Anniversary",
-      "hoCode": "HO00021535",
-      "date": "2026-05-31",
-      "time": "4:00pm",
-      "calendarShowTime": "2026-05-31T16:00:00",
-      "utcShowTime": "2026-05-31T20:00:00.000Z",
-      "performanceId": 214179,
-      "auditorium": 2,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Eng Dubbed",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/tekkonkinkreet-20th-anniversary-ho00021535",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-31-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-31-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -899,31 +832,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-little-shop-of-horrors-ho00021296",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-31-2026&hoCode=&ignoreCache=false&moviesOnly=false"
-    },
-    {
-      "program": "Anime Films",
-      "title": "Tekkonkinkreet 20th Anniversary",
-      "displayTitle": "Tekkonkinkreet 20th Anniversary",
-      "hoCode": "HO00021535",
-      "date": "2026-05-31",
-      "time": "7:00pm",
-      "calendarShowTime": "2026-05-31T19:00:00",
-      "utcShowTime": "2026-05-31T23:00:00.000Z",
-      "performanceId": 214178,
-      "auditorium": 2,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Japanese",
-        "Recliner",
-        "Stadium",
-        "Sub-Titled",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/tekkonkinkreet-20th-anniversary-ho00021535",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-31-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-31-2026"
     },
     {
       "program": "Musical Mayhem / Classic Movies",
@@ -946,7 +855,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/mays-little-shop-of-horrors-ho00021296",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-31-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-31-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -968,7 +877,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sing-ho00021199",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-01-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-01-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -990,7 +899,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-teenage-mutant-ninja-turtles-mutant-mayhem-ho00021200",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-01-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-01-2026"
     },
     {
       "program": "Monday Mystery Movies",
@@ -1012,32 +921,8 @@
         "Reserved-Selected"
       ],
       "soldOut": false,
-      "url": "https://www.regmovies.com/movies/monday-mystery-movie-6-1-ho00021638",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-01-2026&hoCode=&ignoreCache=false&moviesOnly=false"
-    },
-    {
-      "program": "Anime Films",
-      "title": "Tekkonkinkreet 20th Anniversary",
-      "displayTitle": "Tekkonkinkreet 20th Anniversary",
-      "hoCode": "HO00021535",
-      "date": "2026-06-01",
-      "time": "7:00pm",
-      "calendarShowTime": "2026-06-01T19:00:00",
-      "utcShowTime": "2026-06-01T23:00:00.000Z",
-      "performanceId": 214177,
-      "auditorium": 2,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Japanese",
-        "Recliner",
-        "Stadium",
-        "Sub-Titled",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/tekkonkinkreet-20th-anniversary-ho00021535",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-01-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "url": "https://www.regmovies.com/movies/monday-mystery-movie-61-ho00021638",
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-01-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1059,7 +944,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sing-ho00021199",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-02-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-02-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1081,7 +966,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-teenage-mutant-ninja-turtles-mutant-mayhem-ho00021200",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-02-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-02-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1103,7 +988,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sing-ho00021199",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-03-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-03-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1125,7 +1010,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-teenage-mutant-ninja-turtles-mutant-mayhem-ho00021200",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-03-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-03-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1147,7 +1032,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sing-ho00021199",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-04-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-04-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1169,7 +1054,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-teenage-mutant-ninja-turtles-mutant-mayhem-ho00021200",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-04-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-04-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1191,7 +1076,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-david-ho00021242",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-08-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-08-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1213,7 +1098,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-kung-fu-panda-4-ho00021201",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-08-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-08-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1235,7 +1120,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-david-ho00021242",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-09-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-09-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1257,7 +1142,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-kung-fu-panda-4-ho00021201",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-09-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-09-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1279,7 +1164,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-david-ho00021242",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-10-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-10-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1301,7 +1186,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-kung-fu-panda-4-ho00021201",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-10-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-10-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1323,7 +1208,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-david-ho00021242",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-11-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-11-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1345,7 +1230,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-kung-fu-panda-4-ho00021201",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-11-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-11-2026"
     },
     {
       "program": "Ghibli Fest / Anime Films",
@@ -1439,7 +1324,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-kpop-demon-hunters-a-sing-along-event-ho00021244",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-15-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-15-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1461,7 +1346,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-wild-robot-ho00021249",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-15-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-15-2026"
     },
     {
       "program": "Ghibli Fest / Anime Films",
@@ -1508,7 +1393,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-kpop-demon-hunters-a-sing-along-event-ho00021244",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-16-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-16-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1530,7 +1415,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-wild-robot-ho00021249",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-16-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-16-2026"
     },
     {
       "program": "Ghibli Fest / Anime Films",
@@ -1577,7 +1462,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-kpop-demon-hunters-a-sing-along-event-ho00021244",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-17-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-17-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1599,7 +1484,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-wild-robot-ho00021249",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-17-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-17-2026"
     },
     {
       "program": "Ghibli Fest / Anime Films",
@@ -1607,17 +1492,23 @@
       "displayTitle": "Ponyo - Ghibli 2026",
       "hoCode": "HO00021541",
       "date": "2026-06-17",
-      "time": "TBD",
-      "calendarShowTime": "2026-06-17T23:59:00",
-      "utcShowTime": "",
-      "performanceId": null,
-      "auditorium": "",
-      "format": "TBD",
-      "attributes": [],
+      "time": "6:30pm",
+      "calendarShowTime": "2026-06-17T18:30:00",
+      "utcShowTime": "2026-06-17T22:30:00.000Z",
+      "performanceId": 214183,
+      "auditorium": 2,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Eng Dubbed",
+        "No Pass/PT",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/ponyo-ghibli-2026-ho00021541",
-      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
-      "note": "Regal lists this event date, but exact showtime is not available yet."
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-17-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1639,7 +1530,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-kpop-demon-hunters-a-sing-along-event-ho00021244",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-18-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-18-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1661,7 +1552,7 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-wild-robot-ho00021249",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-18-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-18-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1669,21 +1560,17 @@
       "displayTitle": "The Bad Guys 2",
       "hoCode": "HO00021247",
       "date": "2026-06-22",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-22T11:00:00",
-      "utcShowTime": "2026-06-22T15:00:00.000Z",
-      "performanceId": 213568,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-06-22T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-bad-guys-2-ho00021247",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-22-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -1691,21 +1578,17 @@
       "displayTitle": "The Garfield Movie",
       "hoCode": "HO00021250",
       "date": "2026-06-22",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-22T11:00:00",
-      "utcShowTime": "2026-06-22T15:00:00.000Z",
-      "performanceId": 213567,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-06-22T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-garfield-movie-ho00021250",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-22-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -1713,21 +1596,17 @@
       "displayTitle": "The Bad Guys 2",
       "hoCode": "HO00021247",
       "date": "2026-06-23",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-23T11:00:00",
-      "utcShowTime": "2026-06-23T15:00:00.000Z",
-      "performanceId": 213569,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-06-23T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-bad-guys-2-ho00021247",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-23-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -1735,21 +1614,17 @@
       "displayTitle": "The Garfield Movie",
       "hoCode": "HO00021250",
       "date": "2026-06-23",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-23T11:00:00",
-      "utcShowTime": "2026-06-23T15:00:00.000Z",
-      "performanceId": 213570,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-06-23T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-garfield-movie-ho00021250",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-23-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -1757,21 +1632,17 @@
       "displayTitle": "The Bad Guys 2",
       "hoCode": "HO00021247",
       "date": "2026-06-24",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-24T11:00:00",
-      "utcShowTime": "2026-06-24T15:00:00.000Z",
-      "performanceId": 213571,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-06-24T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-bad-guys-2-ho00021247",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-24-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -1779,21 +1650,17 @@
       "displayTitle": "The Garfield Movie",
       "hoCode": "HO00021250",
       "date": "2026-06-24",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-24T11:00:00",
-      "utcShowTime": "2026-06-24T15:00:00.000Z",
-      "performanceId": 213572,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-06-24T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-garfield-movie-ho00021250",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-24-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -1801,21 +1668,17 @@
       "displayTitle": "The Bad Guys 2",
       "hoCode": "HO00021247",
       "date": "2026-06-25",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-25T11:00:00",
-      "utcShowTime": "2026-06-25T15:00:00.000Z",
-      "performanceId": 213573,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-06-25T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-bad-guys-2-ho00021247",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-25-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -1823,21 +1686,17 @@
       "displayTitle": "The Garfield Movie",
       "hoCode": "HO00021250",
       "date": "2026-06-25",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-25T11:00:00",
-      "utcShowTime": "2026-06-25T15:00:00.000Z",
-      "performanceId": 213574,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-06-25T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-garfield-movie-ho00021250",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-25-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "My Way Matinee",
@@ -1845,25 +1704,17 @@
       "displayTitle": "Toy Story 5 (Sensory)",
       "hoCode": "HO00021743",
       "date": "2026-06-27",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-27T11:00:00",
-      "utcShowTime": "2026-06-27T15:00:00.000Z",
-      "performanceId": 214828,
-      "auditorium": 1,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "CC",
-        "DV",
-        "No Passes",
-        "Recliner",
-        "Sensory",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-06-27T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/toy-story-5-sensory-ho00021743",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-27-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -1871,23 +1722,17 @@
       "displayTitle": "A Minecraft Movie",
       "hoCode": "HO00021248",
       "date": "2026-06-29",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-29T11:00:00",
-      "utcShowTime": "2026-06-29T15:00:00.000Z",
-      "performanceId": 213576,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "CC",
-        "DV",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-06-29T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-a-minecraft-movie-ho00021248",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-29-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -1895,21 +1740,17 @@
       "displayTitle": "Sonic the Hedgehog 2",
       "hoCode": "HO00021251",
       "date": "2026-06-29",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-29T11:00:00",
-      "utcShowTime": "2026-06-29T15:00:00.000Z",
-      "performanceId": 213575,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-06-29T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sonic-the-hedgehog-2-ho00021251",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-29-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -1917,23 +1758,17 @@
       "displayTitle": "A Minecraft Movie",
       "hoCode": "HO00021248",
       "date": "2026-06-30",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-30T11:00:00",
-      "utcShowTime": "2026-06-30T15:00:00.000Z",
-      "performanceId": 213577,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "CC",
-        "DV",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-06-30T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-a-minecraft-movie-ho00021248",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-30-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -1941,21 +1776,17 @@
       "displayTitle": "Sonic the Hedgehog 2",
       "hoCode": "HO00021251",
       "date": "2026-06-30",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-30T11:00:00",
-      "utcShowTime": "2026-06-30T15:00:00.000Z",
-      "performanceId": 213578,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-06-30T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sonic-the-hedgehog-2-ho00021251",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-30-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -1963,23 +1794,17 @@
       "displayTitle": "A Minecraft Movie",
       "hoCode": "HO00021248",
       "date": "2026-07-01",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-01T11:00:00",
-      "utcShowTime": "2026-07-01T15:00:00.000Z",
-      "performanceId": 213579,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "CC",
-        "DV",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-01T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-a-minecraft-movie-ho00021248",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-01-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -1987,21 +1812,17 @@
       "displayTitle": "Sonic the Hedgehog 2",
       "hoCode": "HO00021251",
       "date": "2026-07-01",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-01T11:00:00",
-      "utcShowTime": "2026-07-01T15:00:00.000Z",
-      "performanceId": 213580,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-01T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sonic-the-hedgehog-2-ho00021251",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-01-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2009,23 +1830,17 @@
       "displayTitle": "A Minecraft Movie",
       "hoCode": "HO00021248",
       "date": "2026-07-02",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-02T11:00:00",
-      "utcShowTime": "2026-07-02T15:00:00.000Z",
-      "performanceId": 213581,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "CC",
-        "DV",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-02T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-a-minecraft-movie-ho00021248",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-02-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2033,21 +1848,17 @@
       "displayTitle": "Sonic the Hedgehog 2",
       "hoCode": "HO00021251",
       "date": "2026-07-02",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-02T11:00:00",
-      "utcShowTime": "2026-07-02T15:00:00.000Z",
-      "performanceId": 213582,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-02T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sonic-the-hedgehog-2-ho00021251",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-02-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2055,23 +1866,17 @@
       "displayTitle": "How to Train Your Dragon",
       "hoCode": "HO00021254",
       "date": "2026-07-06",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-06T11:00:00",
-      "utcShowTime": "2026-07-06T15:00:00.000Z",
-      "performanceId": 213583,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "CC",
-        "DV",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-06T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-how-to-train-your-dragon-ho00021254",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-06-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2079,21 +1884,17 @@
       "displayTitle": "Sonic the Hedgehog 3",
       "hoCode": "HO00021252",
       "date": "2026-07-06",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-06T11:00:00",
-      "utcShowTime": "2026-07-06T15:00:00.000Z",
-      "performanceId": 213584,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-06T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sonic-the-hedgehog-3-ho00021252",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-06-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2101,23 +1902,17 @@
       "displayTitle": "How to Train Your Dragon",
       "hoCode": "HO00021254",
       "date": "2026-07-07",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-07T11:00:00",
-      "utcShowTime": "2026-07-07T15:00:00.000Z",
-      "performanceId": 213586,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "CC",
-        "DV",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-07T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-how-to-train-your-dragon-ho00021254",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-07-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2125,21 +1920,17 @@
       "displayTitle": "Sonic the Hedgehog 3",
       "hoCode": "HO00021252",
       "date": "2026-07-07",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-07T11:00:00",
-      "utcShowTime": "2026-07-07T15:00:00.000Z",
-      "performanceId": 213585,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-07T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sonic-the-hedgehog-3-ho00021252",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-07-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2147,23 +1938,17 @@
       "displayTitle": "How to Train Your Dragon",
       "hoCode": "HO00021254",
       "date": "2026-07-08",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-08T11:00:00",
-      "utcShowTime": "2026-07-08T15:00:00.000Z",
-      "performanceId": 213588,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "CC",
-        "DV",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-08T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-how-to-train-your-dragon-ho00021254",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-08-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2171,21 +1956,17 @@
       "displayTitle": "Sonic the Hedgehog 3",
       "hoCode": "HO00021252",
       "date": "2026-07-08",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-08T11:00:00",
-      "utcShowTime": "2026-07-08T15:00:00.000Z",
-      "performanceId": 213587,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-08T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sonic-the-hedgehog-3-ho00021252",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-08-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2193,23 +1974,17 @@
       "displayTitle": "How to Train Your Dragon",
       "hoCode": "HO00021254",
       "date": "2026-07-09",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-09T11:00:00",
-      "utcShowTime": "2026-07-09T15:00:00.000Z",
-      "performanceId": 213590,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "CC",
-        "DV",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-09T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-how-to-train-your-dragon-ho00021254",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-09-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2217,21 +1992,17 @@
       "displayTitle": "Sonic the Hedgehog 3",
       "hoCode": "HO00021252",
       "date": "2026-07-09",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-09T11:00:00",
-      "utcShowTime": "2026-07-09T15:00:00.000Z",
-      "performanceId": 213589,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-09T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sonic-the-hedgehog-3-ho00021252",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-09-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Ghibli Fest / Anime Films",
@@ -2270,28 +2041,6 @@
       "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
-      "program": "Summer Movie Express",
-      "title": "SMX26: Scoob!",
-      "displayTitle": "Scoob!",
-      "hoCode": "HO00021253",
-      "date": "2026-07-13",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-13T11:00:00",
-      "utcShowTime": "2026-07-13T15:00:00.000Z",
-      "performanceId": 213592,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/smx26-scoob-ho00021253",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-13-2026&hoCode=&ignoreCache=false&moviesOnly=false"
-    },
-    {
       "program": "Ghibli Fest / Anime Films",
       "title": "My Neighbor Totoro - Ghibli 2026",
       "displayTitle": "My Neighbor Totoro - Ghibli 2026",
@@ -2314,22 +2063,18 @@
       "title": "SMX26: Scoob!",
       "displayTitle": "Scoob!",
       "hoCode": "HO00021253",
-      "date": "2026-07-14",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-14T11:00:00",
-      "utcShowTime": "2026-07-14T15:00:00.000Z",
-      "performanceId": 213593,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "date": "2026-07-13",
+      "time": "TBD",
+      "calendarShowTime": "2026-07-13T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-scoob-ho00021253",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-14-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Ghibli Fest / Anime Films",
@@ -2354,22 +2099,18 @@
       "title": "SMX26: Scoob!",
       "displayTitle": "Scoob!",
       "hoCode": "HO00021253",
-      "date": "2026-07-15",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-15T11:00:00",
-      "utcShowTime": "2026-07-15T15:00:00.000Z",
-      "performanceId": 213595,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "date": "2026-07-14",
+      "time": "TBD",
+      "calendarShowTime": "2026-07-14T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-scoob-ho00021253",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-15-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Ghibli Fest / Anime Films",
@@ -2394,22 +2135,36 @@
       "title": "SMX26: Scoob!",
       "displayTitle": "Scoob!",
       "hoCode": "HO00021253",
-      "date": "2026-07-16",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-16T11:00:00",
-      "utcShowTime": "2026-07-16T15:00:00.000Z",
-      "performanceId": 213597,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "date": "2026-07-15",
+      "time": "TBD",
+      "calendarShowTime": "2026-07-15T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-scoob-ho00021253",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-16-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Scoob!",
+      "displayTitle": "Scoob!",
+      "hoCode": "HO00021253",
+      "date": "2026-07-16",
+      "time": "TBD",
+      "calendarShowTime": "2026-07-16T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-scoob-ho00021253",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2417,21 +2172,17 @@
       "displayTitle": "Animal Farm",
       "hoCode": "HO00021255",
       "date": "2026-07-20",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-20T11:00:00",
-      "utcShowTime": "2026-07-20T15:00:00.000Z",
-      "performanceId": 213600,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-20T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-animal-farm-ho00021255",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-20-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2439,23 +2190,17 @@
       "displayTitle": "The SpongeBob Movie: Search for Squarepants",
       "hoCode": "HO00021262",
       "date": "2026-07-20",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-20T11:00:00",
-      "utcShowTime": "2026-07-20T15:00:00.000Z",
-      "performanceId": 213599,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "CC",
-        "DV",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-20T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-spongebob-movie-search-for-squarepants-ho00021262",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-20-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2463,21 +2208,17 @@
       "displayTitle": "Animal Farm",
       "hoCode": "HO00021255",
       "date": "2026-07-21",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-21T11:00:00",
-      "utcShowTime": "2026-07-21T15:00:00.000Z",
-      "performanceId": 213601,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-21T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-animal-farm-ho00021255",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-21-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2485,23 +2226,17 @@
       "displayTitle": "The SpongeBob Movie: Search for Squarepants",
       "hoCode": "HO00021262",
       "date": "2026-07-21",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-21T11:00:00",
-      "utcShowTime": "2026-07-21T15:00:00.000Z",
-      "performanceId": 213602,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "CC",
-        "DV",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-21T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-spongebob-movie-search-for-squarepants-ho00021262",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-21-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2509,21 +2244,17 @@
       "displayTitle": "Animal Farm",
       "hoCode": "HO00021255",
       "date": "2026-07-22",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-22T11:00:00",
-      "utcShowTime": "2026-07-22T15:00:00.000Z",
-      "performanceId": 213604,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-22T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-animal-farm-ho00021255",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-22-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2531,23 +2262,341 @@
       "displayTitle": "The SpongeBob Movie: Search for Squarepants",
       "hoCode": "HO00021262",
       "date": "2026-07-22",
-      "time": "11:00am",
-      "calendarShowTime": "2026-07-22T11:00:00",
-      "utcShowTime": "2026-07-22T15:00:00.000Z",
-      "performanceId": 213603,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "CC",
-        "DV",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-07-22T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-spongebob-movie-search-for-squarepants-ho00021262",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-22-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Animal Farm",
+      "displayTitle": "Animal Farm",
+      "hoCode": "HO00021255",
+      "date": "2026-07-23",
+      "time": "TBD",
+      "calendarShowTime": "2026-07-23T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-animal-farm-ho00021255",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: The SpongeBob Movie: Search for Squarepants",
+      "displayTitle": "The SpongeBob Movie: Search for Squarepants",
+      "hoCode": "HO00021262",
+      "date": "2026-07-23",
+      "time": "TBD",
+      "calendarShowTime": "2026-07-23T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-the-spongebob-movie-search-for-squarepants-ho00021262",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Dog Man",
+      "displayTitle": "Dog Man",
+      "hoCode": "HO00021256",
+      "date": "2026-07-27",
+      "time": "TBD",
+      "calendarShowTime": "2026-07-27T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-dog-man-ho00021256",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Paddington in Peru",
+      "displayTitle": "Paddington in Peru",
+      "hoCode": "HO00021263",
+      "date": "2026-07-27",
+      "time": "TBD",
+      "calendarShowTime": "2026-07-27T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-paddington-in-peru-ho00021263",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Dog Man",
+      "displayTitle": "Dog Man",
+      "hoCode": "HO00021256",
+      "date": "2026-07-28",
+      "time": "TBD",
+      "calendarShowTime": "2026-07-28T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-dog-man-ho00021256",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Paddington in Peru",
+      "displayTitle": "Paddington in Peru",
+      "hoCode": "HO00021263",
+      "date": "2026-07-28",
+      "time": "TBD",
+      "calendarShowTime": "2026-07-28T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-paddington-in-peru-ho00021263",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Dog Man",
+      "displayTitle": "Dog Man",
+      "hoCode": "HO00021256",
+      "date": "2026-07-29",
+      "time": "TBD",
+      "calendarShowTime": "2026-07-29T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-dog-man-ho00021256",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Paddington in Peru",
+      "displayTitle": "Paddington in Peru",
+      "hoCode": "HO00021263",
+      "date": "2026-07-29",
+      "time": "TBD",
+      "calendarShowTime": "2026-07-29T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-paddington-in-peru-ho00021263",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Dog Man",
+      "displayTitle": "Dog Man",
+      "hoCode": "HO00021256",
+      "date": "2026-07-30",
+      "time": "TBD",
+      "calendarShowTime": "2026-07-30T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-dog-man-ho00021256",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Paddington in Peru",
+      "displayTitle": "Paddington in Peru",
+      "hoCode": "HO00021263",
+      "date": "2026-07-30",
+      "time": "TBD",
+      "calendarShowTime": "2026-07-30T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-paddington-in-peru-ho00021263",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Charlie the Wonderdog",
+      "displayTitle": "Charlie the Wonderdog",
+      "hoCode": "HO00021264",
+      "date": "2026-08-03",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-03T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-charlie-the-wonderdog-ho00021264",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Despicable Me 4",
+      "displayTitle": "Despicable Me 4",
+      "hoCode": "HO00021257",
+      "date": "2026-08-03",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-03T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-despicable-me-4-ho00021257",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Charlie the Wonderdog",
+      "displayTitle": "Charlie the Wonderdog",
+      "hoCode": "HO00021264",
+      "date": "2026-08-04",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-04T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-charlie-the-wonderdog-ho00021264",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Despicable Me 4",
+      "displayTitle": "Despicable Me 4",
+      "hoCode": "HO00021257",
+      "date": "2026-08-04",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-04T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-despicable-me-4-ho00021257",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Charlie the Wonderdog",
+      "displayTitle": "Charlie the Wonderdog",
+      "hoCode": "HO00021264",
+      "date": "2026-08-05",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-05T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-charlie-the-wonderdog-ho00021264",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Despicable Me 4",
+      "displayTitle": "Despicable Me 4",
+      "hoCode": "HO00021257",
+      "date": "2026-08-05",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-05T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-despicable-me-4-ho00021257",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Charlie the Wonderdog",
+      "displayTitle": "Charlie the Wonderdog",
+      "hoCode": "HO00021264",
+      "date": "2026-08-06",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-06T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-charlie-the-wonderdog-ho00021264",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Despicable Me 4",
+      "displayTitle": "Despicable Me 4",
+      "hoCode": "HO00021257",
+      "date": "2026-08-06",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-06T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-despicable-me-4-ho00021257",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Ghibli Fest / Anime Films",
@@ -2582,6 +2631,42 @@
       "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/only-yesterday-35th-anniv-ghibli-2026-ho00021566",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Muppet Treasure Island",
+      "displayTitle": "Muppet Treasure Island",
+      "hoCode": "HO00021424",
+      "date": "2026-08-10",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-10T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-muppet-treasure-island-ho00021424",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: The Sandlot",
+      "displayTitle": "The Sandlot",
+      "hoCode": "HO00021423",
+      "date": "2026-08-10",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-10T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-the-sandlot-ho00021423",
       "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
       "note": "Regal lists this event date, but exact showtime is not available yet."
     },
@@ -2626,22 +2711,234 @@
       "title": "SMX26: Muppet Treasure Island",
       "displayTitle": "Muppet Treasure Island",
       "hoCode": "HO00021424",
-      "date": "2026-08-20",
-      "time": "11:00am",
-      "calendarShowTime": "2026-08-20T11:00:00",
-      "utcShowTime": "2026-08-20T15:00:00.000Z",
-      "performanceId": 213638,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "date": "2026-08-11",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-11T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-muppet-treasure-island-ho00021424",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=08-20-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: The Sandlot",
+      "displayTitle": "The Sandlot",
+      "hoCode": "HO00021423",
+      "date": "2026-08-11",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-11T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-the-sandlot-ho00021423",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Muppet Treasure Island",
+      "displayTitle": "Muppet Treasure Island",
+      "hoCode": "HO00021424",
+      "date": "2026-08-12",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-12T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-muppet-treasure-island-ho00021424",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: The Sandlot",
+      "displayTitle": "The Sandlot",
+      "hoCode": "HO00021423",
+      "date": "2026-08-12",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-12T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-the-sandlot-ho00021423",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Muppet Treasure Island",
+      "displayTitle": "Muppet Treasure Island",
+      "hoCode": "HO00021424",
+      "date": "2026-08-13",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-13T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-muppet-treasure-island-ho00021424",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: The Sandlot",
+      "displayTitle": "The Sandlot",
+      "hoCode": "HO00021423",
+      "date": "2026-08-13",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-13T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-the-sandlot-ho00021423",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Muppet Treasure Island",
+      "displayTitle": "Muppet Treasure Island",
+      "hoCode": "HO00021424",
+      "date": "2026-08-17",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-17T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-muppet-treasure-island-ho00021424",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: The Sandlot",
+      "displayTitle": "The Sandlot",
+      "hoCode": "HO00021423",
+      "date": "2026-08-17",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-17T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-the-sandlot-ho00021423",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Muppet Treasure Island",
+      "displayTitle": "Muppet Treasure Island",
+      "hoCode": "HO00021424",
+      "date": "2026-08-18",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-18T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-muppet-treasure-island-ho00021424",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: The Sandlot",
+      "displayTitle": "The Sandlot",
+      "hoCode": "HO00021423",
+      "date": "2026-08-18",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-18T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-the-sandlot-ho00021423",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Muppet Treasure Island",
+      "displayTitle": "Muppet Treasure Island",
+      "hoCode": "HO00021424",
+      "date": "2026-08-19",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-19T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-muppet-treasure-island-ho00021424",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: The Sandlot",
+      "displayTitle": "The Sandlot",
+      "hoCode": "HO00021423",
+      "date": "2026-08-19",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-19T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-the-sandlot-ho00021423",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: Muppet Treasure Island",
+      "displayTitle": "Muppet Treasure Island",
+      "hoCode": "HO00021424",
+      "date": "2026-08-20",
+      "time": "TBD",
+      "calendarShowTime": "2026-08-20T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-muppet-treasure-island-ho00021424",
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Summer Movie Express",
@@ -2649,21 +2946,17 @@
       "displayTitle": "The Sandlot",
       "hoCode": "HO00021423",
       "date": "2026-08-20",
-      "time": "11:00am",
-      "calendarShowTime": "2026-08-20T11:00:00",
-      "utcShowTime": "2026-08-20T15:00:00.000Z",
-      "performanceId": 213637,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
+      "time": "TBD",
+      "calendarShowTime": "2026-08-20T23:59:00",
+      "utcShowTime": "",
+      "performanceId": null,
+      "auditorium": "",
+      "format": "TBD",
+      "attributes": [],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-sandlot-ho00021423",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=08-20-2026&hoCode=&ignoreCache=false&moviesOnly=false"
+      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
+      "note": "Regal lists this event date, but exact showtime is not available yet."
     },
     {
       "program": "Ghibli Fest / Anime Films",

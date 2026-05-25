@@ -358,9 +358,9 @@
       }
 
       async function init() {
-        const response = await fetch("./data/regal-hunt-valley-programs.json?v=20260524-starred-ghibli");
+        const response = await fetch("./data/regal-hunt-valley-programs.json?v=20260525-regal-api-refresh");
         state.data = await response.json();
-        const starredResponse = await fetch("./data/starred.json?v=20260524-starred-expanded").catch(() => null);
+        const starredResponse = await fetch("./data/starred.json?v=20260525-regal-api-refresh").catch(() => null);
         if (starredResponse && starredResponse.ok) {
           const starred = await starredResponse.json();
           state.starred = {
