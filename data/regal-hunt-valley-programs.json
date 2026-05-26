@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T12:13:26.150Z",
+  "generatedAt": "2026-05-26T12:06:31.183Z",
   "theatre": {
     "name": "Regal Hunt Valley",
     "code": "1711",
@@ -226,17 +226,6 @@
       "poster": "https://regalcdn.azureedge.net/REG/SMX26CharlietheWonderdog/HO00021264/TV_SmallPosterImage/20260430-125551418.jpg",
       "trailer": "https://www.youtube.com/watch?v=uUDfO0Q4sog"
     },
-    "HO00021291": {
-      "title": "MAYS: Blues Brothers",
-      "displayTitle": "Blues Brothers",
-      "rating": "R",
-      "durationMinutes": 133,
-      "runtime": "2HR 13MINS",
-      "genre": "Action / Comedy",
-      "description": "After his release from prison, Jake (John Belushi) reunites with his brother, Elwood (Dan Aykroyd) -- collectively known as the \"Blues Brothers.\" Jake's first task is to save the orphanage the brothers grew up in from closing, by raising $5,000 to pay back taxes. The two are convinced they can earn the money by getting their old band back together. However, after playing several gigs and making a few enemies, including the police, the brothers face daunting odds to deliver the money on time.",
-      "poster": "https://regalcdn.azureedge.net/REG/MAYSBluesBrothers/HO00021291/TV_SmallPosterImage/20260407-145306344.jpg",
-      "trailer": ""
-    },
     "HO00021292": {
       "title": "MAYS: Popstar: Never Stop Never Stopping",
       "displayTitle": "Popstar: Never Stop Never Stopping",
@@ -406,94 +395,6 @@
   "events": [
     {
       "program": "Musical Mayhem / Classic Movies",
-      "title": "MAYS: Blues Brothers",
-      "displayTitle": "Blues Brothers",
-      "hoCode": "HO00021291",
-      "date": "2026-05-25",
-      "time": "11:05am",
-      "calendarShowTime": "2026-05-25T11:05:00",
-      "utcShowTime": "2026-05-25T15:05:00.000Z",
-      "performanceId": 213041,
-      "auditorium": 4,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/mays-blues-brothers-ho00021291",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-25-2026"
-    },
-    {
-      "program": "Musical Mayhem / Classic Movies",
-      "title": "MAYS: Blues Brothers",
-      "displayTitle": "Blues Brothers",
-      "hoCode": "HO00021291",
-      "date": "2026-05-25",
-      "time": "12:40pm",
-      "calendarShowTime": "2026-05-25T12:40:00",
-      "utcShowTime": "2026-05-25T16:40:00.000Z",
-      "performanceId": 214837,
-      "auditorium": 2,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/mays-blues-brothers-ho00021291",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-25-2026"
-    },
-    {
-      "program": "Musical Mayhem / Classic Movies",
-      "title": "MAYS: Blues Brothers",
-      "displayTitle": "Blues Brothers",
-      "hoCode": "HO00021291",
-      "date": "2026-05-25",
-      "time": "2:20pm",
-      "calendarShowTime": "2026-05-25T14:20:00",
-      "utcShowTime": "2026-05-25T18:20:00.000Z",
-      "performanceId": 213042,
-      "auditorium": 4,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/mays-blues-brothers-ho00021291",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-25-2026"
-    },
-    {
-      "program": "Musical Mayhem / Classic Movies",
-      "title": "MAYS: Blues Brothers",
-      "displayTitle": "Blues Brothers",
-      "hoCode": "HO00021291",
-      "date": "2026-05-25",
-      "time": "5:45pm",
-      "calendarShowTime": "2026-05-25T17:45:00",
-      "utcShowTime": "2026-05-25T21:45:00.000Z",
-      "performanceId": 214843,
-      "auditorium": 4,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/mays-blues-brothers-ho00021291",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=05-25-2026"
-    },
-    {
-      "program": "Musical Mayhem / Classic Movies",
       "title": "MAYS: Popstar: Never Stop Never Stopping",
       "displayTitle": "Popstar: Never Stop Never Stopping",
       "hoCode": "HO00021292",
@@ -502,7 +403,7 @@
       "calendarShowTime": "2026-05-27T18:30:00",
       "utcShowTime": "2026-05-27T22:30:00.000Z",
       "performanceId": 213052,
-      "auditorium": 4,
+      "auditorium": 3,
       "format": "Standard",
       "attributes": [
         "2D",
