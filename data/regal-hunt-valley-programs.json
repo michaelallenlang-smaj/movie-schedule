@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T22:25:42.920Z",
+  "generatedAt": "2026-05-31T12:22:02.437Z",
   "theatre": {
     "name": "Regal Hunt Valley",
     "code": "1711",
@@ -1266,17 +1266,21 @@
       "displayTitle": "The Bad Guys 2",
       "hoCode": "HO00021247",
       "date": "2026-06-24",
-      "time": "TBD",
-      "calendarShowTime": "2026-06-24T23:59:00",
-      "utcShowTime": "",
-      "performanceId": null,
-      "auditorium": "",
-      "format": "TBD",
-      "attributes": [],
+      "time": "11:00am",
+      "calendarShowTime": "2026-06-24T11:00:00",
+      "utcShowTime": "2026-06-24T15:00:00.000Z",
+      "performanceId": 213571,
+      "auditorium": 8,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-bad-guys-2-ho00021247",
-      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
-      "note": "Regal lists this event date, but exact showtime is not available yet."
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-24-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1284,17 +1288,21 @@
       "displayTitle": "The Garfield Movie",
       "hoCode": "HO00021250",
       "date": "2026-06-24",
-      "time": "TBD",
-      "calendarShowTime": "2026-06-24T23:59:00",
-      "utcShowTime": "",
-      "performanceId": null,
-      "auditorium": "",
-      "format": "TBD",
-      "attributes": [],
+      "time": "11:00am",
+      "calendarShowTime": "2026-06-24T11:00:00",
+      "utcShowTime": "2026-06-24T15:00:00.000Z",
+      "performanceId": 213572,
+      "auditorium": 7,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-garfield-movie-ho00021250",
-      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
-      "note": "Regal lists this event date, but exact showtime is not available yet."
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-24-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1302,17 +1310,21 @@
       "displayTitle": "The Bad Guys 2",
       "hoCode": "HO00021247",
       "date": "2026-06-25",
-      "time": "TBD",
-      "calendarShowTime": "2026-06-25T23:59:00",
-      "utcShowTime": "",
-      "performanceId": null,
-      "auditorium": "",
-      "format": "TBD",
-      "attributes": [],
+      "time": "11:00am",
+      "calendarShowTime": "2026-06-25T11:00:00",
+      "utcShowTime": "2026-06-25T15:00:00.000Z",
+      "performanceId": 213573,
+      "auditorium": 8,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-bad-guys-2-ho00021247",
-      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
-      "note": "Regal lists this event date, but exact showtime is not available yet."
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-25-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1320,17 +1332,21 @@
       "displayTitle": "The Garfield Movie",
       "hoCode": "HO00021250",
       "date": "2026-06-25",
-      "time": "TBD",
-      "calendarShowTime": "2026-06-25T23:59:00",
-      "utcShowTime": "",
-      "performanceId": null,
-      "auditorium": "",
-      "format": "TBD",
-      "attributes": [],
+      "time": "11:00am",
+      "calendarShowTime": "2026-06-25T11:00:00",
+      "utcShowTime": "2026-06-25T15:00:00.000Z",
+      "performanceId": 213574,
+      "auditorium": 7,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-garfield-movie-ho00021250",
-      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
-      "note": "Regal lists this event date, but exact showtime is not available yet."
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-25-2026"
     },
     {
       "program": "My Way Matinee",

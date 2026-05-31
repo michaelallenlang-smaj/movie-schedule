@@ -175,6 +175,45 @@ def build_schedule(
     scraper = cloudscraper.create_scraper(
         browser={"browser": "chrome", "platform": "windows", "mobile": False}
     )
+    playwright_ctx: Dict[str, Any] = {}
+
+    def fetch_json_via_playwright(url: str) -> Dict[str, Any]:
+        try:
+            from playwright.sync_api import sync_playwright  # type: ignore
+        except Exception as exc:  # noqa: BLE001 - optional dependency
+            raise RuntimeError(
+                "Playwright is required to fetch Regal API data when Cloudflare blocks requests. "
+                "Install with: python -m pip install playwright && python -m playwright install chromium"
+            ) from exc
+
+        if "pw" not in playwright_ctx:
+            pw = sync_playwright().start()
+            browser = pw.chromium.launch(headless=True)
+            context = browser.new_context(
+                user_agent=(
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/148.0.0.0 Safari/537.36"
+                ),
+                extra_http_headers={
+                    "Accept": "application/json, text/plain, */*",
+                    "Accept-Language": "en-US,en;q=0.9",
+                    "Referer": THEATRE_URL,
+                },
+            )
+            playwright_ctx.update({"pw": pw, "browser": browser, "context": context})
+
+        page = playwright_ctx["context"].new_page()
+        try:
+            resp = page.goto(url, wait_until="domcontentloaded", timeout=90_000)
+            if resp is None:
+                raise RuntimeError("no response")
+            if resp.status != 200:
+                raise RuntimeError(f"HTTP {resp.status}")
+            text = resp.text()
+            return json.loads(text)
+        finally:
+            page.close()
 
     def fetch_json(url: str) -> Dict[str, Any]:
         last_error: Optional[Exception] = None
@@ -189,6 +228,14 @@ def build_schedule(
                 return resp.json()
             except Exception as exc:  # noqa: BLE001 - best-effort scraping
                 last_error = exc
+                # Regal now intermittently blocks non-browser requests with Cloudflare (HTTP 403).
+                # Fall back to Playwright, which runs a real browser and gets a valid clearance cookie.
+                err = str(exc)
+                if "HTTP 403" in err or "unexpected content-type" in err:
+                    try:
+                        return fetch_json_via_playwright(url)
+                    except Exception as pw_exc:  # noqa: BLE001 - preserve original error
+                        last_error = pw_exc
         raise RuntimeError(f"Failed to fetch JSON from {url}: {last_error}")
 
     # Best-effort "crawl" of the public pages requested by the automation.
@@ -337,6 +384,24 @@ def build_schedule(
     for ho_code in sorted(referenced):
         if ho_code in movies_raw:
             movies[ho_code] = movies_raw[ho_code]
+
+    # Clean up Playwright resources if we created them.
+    ctx = playwright_ctx or {}
+    if ctx.get("context"):
+        try:
+            ctx["context"].close()
+        except Exception:
+            pass
+    if ctx.get("browser"):
+        try:
+            ctx["browser"].close()
+        except Exception:
+            pass
+    if ctx.get("pw"):
+        try:
+            ctx["pw"].stop()
+        except Exception:
+            pass
 
     generated_at = datetime.utcnow().isoformat(timespec="milliseconds") + "Z"
 
