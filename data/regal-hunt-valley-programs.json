@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T17:36:29.799Z",
+  "generatedAt": "2026-06-05T12:03:22.080Z",
   "theatre": {
     "name": "Regal Hunt Valley",
     "code": "1711",
@@ -17,28 +17,6 @@
     "Only events that Regal exposes in Hunt Valley showtimes are included."
   ],
   "movies": {
-    "HO00021199": {
-      "title": "SMX26: Sing",
-      "displayTitle": "Sing",
-      "rating": "PG",
-      "durationMinutes": 110,
-      "runtime": "1HR 50MINS",
-      "genre": "Animated / Comedy",
-      "description": "In a city of humanoid animals, a hustling theater impresario's attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists' find that their lives will never be the same.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26Sing/HO00021199/TV_SmallPosterImage/20260430-105238908.jpg",
-      "trailer": ""
-    },
-    "HO00021200": {
-      "title": "SMX26: Teenage Mutant Ninja Turtles: Mutant Mayhem",
-      "displayTitle": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-      "rating": "PG",
-      "durationMinutes": 99,
-      "runtime": "1HR 39MINS",
-      "genre": "Action / Adventure",
-      "description": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O'Neil helps them take on a mysterious crime syndicate, but t",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26TeenageMutantNinjaTurtlesMutantMayhem/HO00021200/TV_SmallPosterImage/20260430-105446783.jpg",
-      "trailer": "https://www.youtube.com/watch?v=IHvzw4Ibuho"
-    },
     "HO00021201": {
       "title": "SMX26: Kung Fu Panda 4",
       "displayTitle": "Kung Fu Panda 4",
@@ -58,7 +36,7 @@
       "runtime": "1HR 49MINS",
       "genre": "Animated / Family",
       "description": "From the songs of his mother's heart to the whispers of a faithful God, David's story begins in quiet devotion. When the giant Goliath rises to terrorize a nation, a young shepherd armed with only a sling, a few stones, and unshakable faith steps forward.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26David/HO00021242/TV_SmallPosterImage/20260430-110008339.jpg",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26David/HO00021242/TV_SmallPosterImage/20260602-125500438.jpg",
       "trailer": "https://www.youtube.com/watch?v=gWgyI6_lR0A"
     },
     "HO00021244": {
@@ -113,7 +91,7 @@
       "runtime": "1HR 41MINS",
       "genre": "Adventure / Animated",
       "description": "Garfield (voiced by Chris Pratt), the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father - scruffy street cat Vic (voiced by Samuel L. Jackson) - Garfiel",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26TheGarfieldMovie/HO00021250/TV_SmallPosterImage/20260430-112758874.jpg",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26TheGarfieldMovie/HO00021250/TV_SmallPosterImage/20260602-112743712.jpg",
       "trailer": "https://www.youtube.com/watch?v=yk2Ej59DnrE"
     },
     "HO00021251": {
@@ -223,7 +201,7 @@
       "runtime": "1HR 46MINS",
       "genre": "Adventure / Comedy",
       "description": "Full of Paddington's signature blend of wit, charm, and laugh-out-loud humor, Paddington in Peru finds the beloved, marmalade-loving bear lost in the jungle on an exciting, high-stakes adventure. When Paddington discovers his beloved Aunt Lucy has gone mi",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26PaddingtoninPeru/HO00021263/TV_SmallPosterImage/20260430-115439389.jpg",
+      "poster": "https://regalcdn.azureedge.net/REG/SMX26PaddingtoninPeru/HO00021263/TV_SmallPosterImage/20260602-105124817.jpg",
       "trailer": "https://www.youtube.com/watch?v=NTvudSGfHRI"
     },
     "HO00021264": {
@@ -349,50 +327,6 @@
     }
   },
   "events": [
-    {
-      "program": "Summer Movie Express",
-      "title": "SMX26: Sing",
-      "displayTitle": "Sing",
-      "hoCode": "HO00021199",
-      "date": "2026-06-04",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-04T11:00:00",
-      "utcShowTime": "2026-06-04T15:00:00.000Z",
-      "performanceId": 213543,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/smx26-sing-ho00021199",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-04-2026"
-    },
-    {
-      "program": "Summer Movie Express",
-      "title": "SMX26: Teenage Mutant Ninja Turtles: Mutant Mayhem",
-      "displayTitle": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-      "hoCode": "HO00021200",
-      "date": "2026-06-04",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-04T11:00:00",
-      "utcShowTime": "2026-06-04T15:00:00.000Z",
-      "performanceId": 213550,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/smx26-teenage-mutant-ninja-turtles-mutant-mayhem-ho00021200",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-04-2026"
-    },
     {
       "program": "Summer Movie Express",
       "title": "SMX26: David",
@@ -1099,17 +1033,23 @@
       "displayTitle": "A Minecraft Movie",
       "hoCode": "HO00021248",
       "date": "2026-06-29",
-      "time": "TBD",
-      "calendarShowTime": "2026-06-29T23:59:00",
-      "utcShowTime": "",
-      "performanceId": null,
-      "auditorium": "",
-      "format": "TBD",
-      "attributes": [],
+      "time": "11:00am",
+      "calendarShowTime": "2026-06-29T11:00:00",
+      "utcShowTime": "2026-06-29T15:00:00.000Z",
+      "performanceId": 213576,
+      "auditorium": 7,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "CC",
+        "DV",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-a-minecraft-movie-ho00021248",
-      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
-      "note": "Regal lists this event date, but exact showtime is not available yet."
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-29-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1117,17 +1057,21 @@
       "displayTitle": "Sonic the Hedgehog 2",
       "hoCode": "HO00021251",
       "date": "2026-06-29",
-      "time": "TBD",
-      "calendarShowTime": "2026-06-29T23:59:00",
-      "utcShowTime": "",
-      "performanceId": null,
-      "auditorium": "",
-      "format": "TBD",
-      "attributes": [],
+      "time": "11:00am",
+      "calendarShowTime": "2026-06-29T11:00:00",
+      "utcShowTime": "2026-06-29T15:00:00.000Z",
+      "performanceId": 213575,
+      "auditorium": 8,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sonic-the-hedgehog-2-ho00021251",
-      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
-      "note": "Regal lists this event date, but exact showtime is not available yet."
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-29-2026"
     },
     {
       "program": "Summer Movie Express",
