@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T08:03:48.519Z",
+  "generatedAt": "2026-06-12T08:03:53.958Z",
   "theatre": {
     "name": "Regal Hunt Valley",
     "code": "1711",
@@ -17,28 +17,6 @@
     "Only events that Regal exposes in Hunt Valley showtimes are included."
   ],
   "movies": {
-    "HO00021201": {
-      "title": "SMX26: Kung Fu Panda 4",
-      "displayTitle": "Kung Fu Panda 4",
-      "rating": "PG",
-      "durationMinutes": 94,
-      "runtime": "1HR 34MINS",
-      "genre": "Action / Adventure",
-      "description": "After three death-defying adventures defeating world-class villains with his unmatched courage and mad martial arts skills, Po, the Dragon Warrior (Golden Globe nominee Jack Black), is called upon by destiny to . give it a rest already. More specifically,",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26KungFuPanda4/HO00021201/TV_SmallPosterImage/20260430-105630983.jpg",
-      "trailer": "https://www.youtube.com/watch?v=_inKs4eeHiI"
-    },
-    "HO00021242": {
-      "title": "SMX26: David",
-      "displayTitle": "David",
-      "rating": "PG",
-      "durationMinutes": 109,
-      "runtime": "1HR 49MINS",
-      "genre": "Animated / Family",
-      "description": "From the songs of his mother's heart to the whispers of a faithful God, David's story begins in quiet devotion. When the giant Goliath rises to terrorize a nation, a young shepherd armed with only a sling, a few stones, and unshakable faith steps forward.",
-      "poster": "https://regalcdn.azureedge.net/REG/SMX26David/HO00021242/TV_SmallPosterImage/20260602-125500438.jpg",
-      "trailer": "https://www.youtube.com/watch?v=gWgyI6_lR0A"
-    },
     "HO00021244": {
       "title": "SMX26: KPop Demon Hunters A Sing-Along Event",
       "displayTitle": "KPop Demon Hunters A Sing-Along Event",
@@ -338,50 +316,6 @@
     }
   },
   "events": [
-    {
-      "program": "Summer Movie Express",
-      "title": "SMX26: David",
-      "displayTitle": "David",
-      "hoCode": "HO00021242",
-      "date": "2026-06-11",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-11T11:00:00",
-      "utcShowTime": "2026-06-11T15:00:00.000Z",
-      "performanceId": 213557,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/smx26-david-ho00021242",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-11-2026"
-    },
-    {
-      "program": "Summer Movie Express",
-      "title": "SMX26: Kung Fu Panda 4",
-      "displayTitle": "Kung Fu Panda 4",
-      "hoCode": "HO00021201",
-      "date": "2026-06-11",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-11T11:00:00",
-      "utcShowTime": "2026-06-11T15:00:00.000Z",
-      "performanceId": 213558,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/smx26-kung-fu-panda-4-ho00021201",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-11-2026"
-    },
     {
       "program": "Ghibli Fest / Anime Films",
       "title": "Ponyo - Ghibli 2026",
@@ -1096,17 +1030,23 @@
       "displayTitle": "How to Train Your Dragon",
       "hoCode": "HO00021254",
       "date": "2026-07-06",
-      "time": "TBD",
-      "calendarShowTime": "2026-07-06T23:59:00",
-      "utcShowTime": "",
-      "performanceId": null,
-      "auditorium": "",
-      "format": "TBD",
-      "attributes": [],
+      "time": "11:00am",
+      "calendarShowTime": "2026-07-06T11:00:00",
+      "utcShowTime": "2026-07-06T15:00:00.000Z",
+      "performanceId": 213583,
+      "auditorium": 7,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "CC",
+        "DV",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-how-to-train-your-dragon-ho00021254",
-      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
-      "note": "Regal lists this event date, but exact showtime is not available yet."
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-06-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1114,17 +1054,21 @@
       "displayTitle": "Sonic the Hedgehog 3",
       "hoCode": "HO00021252",
       "date": "2026-07-06",
-      "time": "TBD",
-      "calendarShowTime": "2026-07-06T23:59:00",
-      "utcShowTime": "",
-      "performanceId": null,
-      "auditorium": "",
-      "format": "TBD",
-      "attributes": [],
+      "time": "11:00am",
+      "calendarShowTime": "2026-07-06T11:00:00",
+      "utcShowTime": "2026-07-06T15:00:00.000Z",
+      "performanceId": 213584,
+      "auditorium": 8,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sonic-the-hedgehog-3-ho00021252",
-      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
-      "note": "Regal lists this event date, but exact showtime is not available yet."
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-06-2026"
     },
     {
       "program": "Summer Movie Express",
