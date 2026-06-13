@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T08:03:53.958Z",
+  "generatedAt": "2026-06-13T12:18:50.780Z",
   "theatre": {
     "name": "Regal Hunt Valley",
     "code": "1711",
@@ -312,6 +312,17 @@
       "genre": "Adventure / Comedy",
       "description": "In Disney's live-action adaptation of the beloved Oscar®-nominated animated adventure, Moana (Catherine Laga?aia) answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui (Dwayne Joh",
       "poster": "https://regalcdn.azureedge.net/REG/Moana/HO00020280/TV_SmallPosterImage/20260323-134511905.jpg",
+      "trailer": ""
+    },
+    "HO00021883": {
+      "title": "Monday Mystery Movie 6/29",
+      "displayTitle": "Monday Mystery Movie 6/29",
+      "rating": "R",
+      "durationMinutes": 97,
+      "runtime": "1HR 37MINS",
+      "genre": "",
+      "description": "Shhh! Be the first to see this NEW movie before its official release date for only $5... We just can't tell you the title! The next Monday Mystery Movie at Regal is on June 29!",
+      "poster": "",
       "trailer": ""
     }
   },
@@ -887,6 +898,30 @@
       "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-29-2026"
     },
     {
+      "program": "Monday Mystery Movies",
+      "title": "Monday Mystery Movie 6/29",
+      "displayTitle": "Monday Mystery Movie 6/29",
+      "hoCode": "HO00021883",
+      "date": "2026-06-29",
+      "time": "7:00pm",
+      "calendarShowTime": "2026-06-29T19:00:00",
+      "utcShowTime": "2026-06-29T23:00:00.000Z",
+      "performanceId": 216915,
+      "auditorium": 12,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "CC",
+        "No Passes",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/monday-mystery-movie-629-ho00021883",
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-29-2026"
+    },
+    {
       "program": "Summer Movie Express",
       "title": "SMX26: A Minecraft Movie",
       "displayTitle": "A Minecraft Movie",
@@ -1076,17 +1111,23 @@
       "displayTitle": "How to Train Your Dragon",
       "hoCode": "HO00021254",
       "date": "2026-07-07",
-      "time": "TBD",
-      "calendarShowTime": "2026-07-07T23:59:00",
-      "utcShowTime": "",
-      "performanceId": null,
-      "auditorium": "",
-      "format": "TBD",
-      "attributes": [],
+      "time": "11:00am",
+      "calendarShowTime": "2026-07-07T11:00:00",
+      "utcShowTime": "2026-07-07T15:00:00.000Z",
+      "performanceId": 213586,
+      "auditorium": 7,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "CC",
+        "DV",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-how-to-train-your-dragon-ho00021254",
-      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
-      "note": "Regal lists this event date, but exact showtime is not available yet."
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-07-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1094,17 +1135,21 @@
       "displayTitle": "Sonic the Hedgehog 3",
       "hoCode": "HO00021252",
       "date": "2026-07-07",
-      "time": "TBD",
-      "calendarShowTime": "2026-07-07T23:59:00",
-      "utcShowTime": "",
-      "performanceId": null,
-      "auditorium": "",
-      "format": "TBD",
-      "attributes": [],
+      "time": "11:00am",
+      "calendarShowTime": "2026-07-07T11:00:00",
+      "utcShowTime": "2026-07-07T15:00:00.000Z",
+      "performanceId": 213585,
+      "auditorium": 8,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sonic-the-hedgehog-3-ho00021252",
-      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
-      "note": "Regal lists this event date, but exact showtime is not available yet."
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-07-2026"
     },
     {
       "program": "Summer Movie Express",
