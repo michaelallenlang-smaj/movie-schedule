@@ -2,7 +2,7 @@ import argparse
 import json
 import re
 from dataclasses import dataclass
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
@@ -403,7 +403,7 @@ def build_schedule(
         except Exception:
             pass
 
-    generated_at = datetime.utcnow().isoformat(timespec="milliseconds") + "Z"
+    generated_at = datetime.now(timezone.utc).isoformat(timespec="milliseconds").replace("+00:00", "Z")
 
     return {
         "generatedAt": generated_at,

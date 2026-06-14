@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T12:18:50.780Z",
+  "generatedAt": "2026-06-14T08:03:19.248Z",
   "theatre": {
     "name": "Regal Hunt Valley",
     "code": "1711",
@@ -327,30 +327,6 @@
     }
   },
   "events": [
-    {
-      "program": "Ghibli Fest / Anime Films",
-      "title": "Ponyo - Ghibli 2026",
-      "displayTitle": "Ponyo - Ghibli 2026",
-      "hoCode": "HO00021541",
-      "date": "2026-06-13",
-      "time": "4:00pm",
-      "calendarShowTime": "2026-06-13T16:00:00",
-      "utcShowTime": "2026-06-13T20:00:00.000Z",
-      "performanceId": 214180,
-      "auditorium": 2,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Eng Dubbed",
-        "No Pass/PT",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/ponyo-ghibli-2026-ho00021541",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-13-2026"
-    },
     {
       "program": "Ghibli Fest / Anime Films",
       "title": "Ponyo - Ghibli 2026",
@@ -1157,17 +1133,23 @@
       "displayTitle": "How to Train Your Dragon",
       "hoCode": "HO00021254",
       "date": "2026-07-08",
-      "time": "TBD",
-      "calendarShowTime": "2026-07-08T23:59:00",
-      "utcShowTime": "",
-      "performanceId": null,
-      "auditorium": "",
-      "format": "TBD",
-      "attributes": [],
+      "time": "11:00am",
+      "calendarShowTime": "2026-07-08T11:00:00",
+      "utcShowTime": "2026-07-08T15:00:00.000Z",
+      "performanceId": 213588,
+      "auditorium": 7,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "CC",
+        "DV",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-how-to-train-your-dragon-ho00021254",
-      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
-      "note": "Regal lists this event date, but exact showtime is not available yet."
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-08-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -1175,17 +1157,21 @@
       "displayTitle": "Sonic the Hedgehog 3",
       "hoCode": "HO00021252",
       "date": "2026-07-08",
-      "time": "TBD",
-      "calendarShowTime": "2026-07-08T23:59:00",
-      "utcShowTime": "",
-      "performanceId": null,
-      "auditorium": "",
-      "format": "TBD",
-      "attributes": [],
+      "time": "11:00am",
+      "calendarShowTime": "2026-07-08T11:00:00",
+      "utcShowTime": "2026-07-08T15:00:00.000Z",
+      "performanceId": 213587,
+      "auditorium": 8,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-sonic-the-hedgehog-3-ho00021252",
-      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
-      "note": "Regal lists this event date, but exact showtime is not available yet."
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-08-2026"
     },
     {
       "program": "Summer Movie Express",
