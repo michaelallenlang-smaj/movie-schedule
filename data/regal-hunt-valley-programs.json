@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T08:05:05.613Z",
+  "generatedAt": "2026-06-16T08:04:36.120Z",
   "theatre": {
     "name": "Regal Hunt Valley",
     "code": "1711",
@@ -332,75 +332,6 @@
       "title": "SMX26: KPop Demon Hunters A Sing-Along Event",
       "displayTitle": "KPop Demon Hunters A Sing-Along Event",
       "hoCode": "HO00021244",
-      "date": "2026-06-15",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-15T11:00:00",
-      "utcShowTime": "2026-06-15T15:00:00.000Z",
-      "performanceId": 213560,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/smx26-kpop-demon-hunters-a-sing-along-event-ho00021244",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-15-2026"
-    },
-    {
-      "program": "Summer Movie Express",
-      "title": "SMX26: The Wild Robot",
-      "displayTitle": "The Wild Robot",
-      "hoCode": "HO00021249",
-      "date": "2026-06-15",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-15T11:00:00",
-      "utcShowTime": "2026-06-15T15:00:00.000Z",
-      "performanceId": 213559,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/smx26-the-wild-robot-ho00021249",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-15-2026"
-    },
-    {
-      "program": "Ghibli Fest / Anime Films",
-      "title": "Ponyo - Ghibli 2026",
-      "displayTitle": "Ponyo - Ghibli 2026",
-      "hoCode": "HO00021541",
-      "date": "2026-06-15",
-      "time": "6:30pm",
-      "calendarShowTime": "2026-06-15T18:30:00",
-      "utcShowTime": "2026-06-15T22:30:00.000Z",
-      "performanceId": 214184,
-      "auditorium": 2,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Japanese",
-        "No Pass/PT",
-        "Recliner",
-        "Stadium",
-        "Sub-Titled",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/ponyo-ghibli-2026-ho00021541",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-15-2026"
-    },
-    {
-      "program": "Summer Movie Express",
-      "title": "SMX26: KPop Demon Hunters A Sing-Along Event",
-      "displayTitle": "KPop Demon Hunters A Sing-Along Event",
-      "hoCode": "HO00021244",
       "date": "2026-06-16",
       "time": "11:00am",
       "calendarShowTime": "2026-06-16T11:00:00",
@@ -464,6 +395,28 @@
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/ponyo-ghibli-2026-ho00021541",
       "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-16-2026"
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: KPop Demon Hunters A Sing-Along Event",
+      "displayTitle": "KPop Demon Hunters A Sing-Along Event",
+      "hoCode": "HO00021244",
+      "date": "2026-06-17",
+      "time": "11:00am",
+      "calendarShowTime": "2026-06-17T11:00:00",
+      "utcShowTime": "2026-06-17T15:00:00.000Z",
+      "performanceId": 217017,
+      "auditorium": 9,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-kpop-demon-hunters-a-sing-along-event-ho00021244",
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-17-2026"
     },
     {
       "program": "Summer Movie Express",
@@ -553,6 +506,28 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-kpop-demon-hunters-a-sing-along-event-ho00021244",
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-18-2026"
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: The Wild Robot",
+      "displayTitle": "The Wild Robot",
+      "hoCode": "HO00021249",
+      "date": "2026-06-18",
+      "time": "11:00am",
+      "calendarShowTime": "2026-06-18T11:00:00",
+      "utcShowTime": "2026-06-18T15:00:00.000Z",
+      "performanceId": 216981,
+      "auditorium": 2,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-the-wild-robot-ho00021249",
       "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-18-2026"
     },
     {
