@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T08:04:36.120Z",
+  "generatedAt": "2026-06-17T08:04:27.275Z",
   "theatre": {
     "name": "Regal Hunt Valley",
     "code": "1711",
@@ -332,75 +332,6 @@
       "title": "SMX26: KPop Demon Hunters A Sing-Along Event",
       "displayTitle": "KPop Demon Hunters A Sing-Along Event",
       "hoCode": "HO00021244",
-      "date": "2026-06-16",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-16T11:00:00",
-      "utcShowTime": "2026-06-16T15:00:00.000Z",
-      "performanceId": 213561,
-      "auditorium": 8,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/smx26-kpop-demon-hunters-a-sing-along-event-ho00021244",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-16-2026"
-    },
-    {
-      "program": "Summer Movie Express",
-      "title": "SMX26: The Wild Robot",
-      "displayTitle": "The Wild Robot",
-      "hoCode": "HO00021249",
-      "date": "2026-06-16",
-      "time": "11:00am",
-      "calendarShowTime": "2026-06-16T11:00:00",
-      "utcShowTime": "2026-06-16T15:00:00.000Z",
-      "performanceId": 213562,
-      "auditorium": 7,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Recliner",
-        "Stadium",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/smx26-the-wild-robot-ho00021249",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-16-2026"
-    },
-    {
-      "program": "Ghibli Fest / Anime Films",
-      "title": "Ponyo - Ghibli 2026",
-      "displayTitle": "Ponyo - Ghibli 2026",
-      "hoCode": "HO00021541",
-      "date": "2026-06-16",
-      "time": "6:30pm",
-      "calendarShowTime": "2026-06-16T18:30:00",
-      "utcShowTime": "2026-06-16T22:30:00.000Z",
-      "performanceId": 214185,
-      "auditorium": 1,
-      "format": "Standard",
-      "attributes": [
-        "2D",
-        "Japanese",
-        "No Pass/PT",
-        "Recliner",
-        "Stadium",
-        "Sub-Titled",
-        "Reserved-Selected"
-      ],
-      "soldOut": false,
-      "url": "https://www.regmovies.com/movies/ponyo-ghibli-2026-ho00021541",
-      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-16-2026"
-    },
-    {
-      "program": "Summer Movie Express",
-      "title": "SMX26: KPop Demon Hunters A Sing-Along Event",
-      "displayTitle": "KPop Demon Hunters A Sing-Along Event",
-      "hoCode": "HO00021244",
       "date": "2026-06-17",
       "time": "11:00am",
       "calendarShowTime": "2026-06-17T11:00:00",
@@ -616,6 +547,50 @@
       ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/smx26-the-bad-guys-2-ho00021247",
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-23-2026"
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: The Bad Guys 2",
+      "displayTitle": "The Bad Guys 2",
+      "hoCode": "HO00021247",
+      "date": "2026-06-23",
+      "time": "11:00am",
+      "calendarShowTime": "2026-06-23T11:00:00",
+      "utcShowTime": "2026-06-23T15:00:00.000Z",
+      "performanceId": 217239,
+      "auditorium": 1,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-the-bad-guys-2-ho00021247",
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-23-2026"
+    },
+    {
+      "program": "Summer Movie Express",
+      "title": "SMX26: The Garfield Movie",
+      "displayTitle": "The Garfield Movie",
+      "hoCode": "HO00021250",
+      "date": "2026-06-23",
+      "time": "11:00am",
+      "calendarShowTime": "2026-06-23T11:00:00",
+      "utcShowTime": "2026-06-23T15:00:00.000Z",
+      "performanceId": 217240,
+      "auditorium": 3,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
+      "soldOut": false,
+      "url": "https://www.regmovies.com/movies/smx26-the-garfield-movie-ho00021250",
       "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=06-23-2026"
     },
     {
@@ -1152,17 +1127,23 @@
       "displayTitle": "My Neighbor Totoro - Ghibli 2026",
       "hoCode": "HO00021564",
       "date": "2026-07-11",
-      "time": "TBD",
-      "calendarShowTime": "2026-07-11T23:59:00",
-      "utcShowTime": "",
-      "performanceId": null,
-      "auditorium": "",
-      "format": "TBD",
-      "attributes": [],
+      "time": "4:00pm",
+      "calendarShowTime": "2026-07-11T16:00:00",
+      "utcShowTime": "2026-07-11T20:00:00.000Z",
+      "performanceId": 214186,
+      "auditorium": 2,
+      "format": "Standard",
+      "attributes": [
+        "2D",
+        "Eng Dubbed",
+        "No Pass/PT",
+        "Recliner",
+        "Stadium",
+        "Reserved-Selected"
+      ],
       "soldOut": false,
       "url": "https://www.regmovies.com/movies/my-neighbor-totoro-ghibli-2026-ho00021564",
-      "source": "https://www.regmovies.com/theatres/regal-hunt-valley-1711",
-      "note": "Regal lists this event date, but exact showtime is not available yet."
+      "source": "https://www.regmovies.com/api/getShowtimes?theatres=1711&date=07-11-2026"
     },
     {
       "program": "Ghibli Fest / Anime Films",
